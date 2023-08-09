@@ -10,6 +10,7 @@ require("dotenv").config({
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+pathPrefix: "/i",
   siteMetadata: {
     title: `電書ニュース`,
     author: {
@@ -24,6 +25,15 @@ module.exports = {
   },
   plugins: [
   `gatsby-plugin-sitemap`,
+     {
+      resolve: 'gatsby-plugin-google-gtag',
+      options: {
+        trackingIds: ['G-J8FW91ELEL'],
+        pluginConfig: {
+          head: true,
+        },
+      },
+    },
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
