@@ -3,7 +3,8 @@ title: "KADOKAWAセールまとめ　ASUKAコミックス、FGO、小説、シ�
 date: "2023-07-30"
 description: "「Kindleセール」ASUKAコミックス、FGO、小説、シルフコミックス、メディアワークス文庫など"
 ---
-「Kindleセール」KADOKAWAセールまとめ　ASUKAコミックス、FGO、小説、シルフコミックス、メディアワークス文庫など
+## 「Kindleセール」KADOKAWAセールまとめ
+　ASUKAコミックス、FGO、小説、シルフコミックス、メディアワークス文庫など
 
 ### [漫画] ASUKAコミックス フェア 2023　最大50％OFF　８月１０日 まで
 

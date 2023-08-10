@@ -18,6 +18,7 @@
     "gatsby-plugin-manifest": "^5.11.0",
     "gatsby-plugin-sharp": "^5.11.0",
     "gatsby-plugin-sitemap": "^6.11.0",
+    "gatsby-plugin-twitter": "^5.11.0",
     "gatsby-remark-amazon-link": "^1.2.1",
     "gatsby-remark-images": "^7.11.0",
     "gatsby-remark-link-beautify": "^2.2.5",

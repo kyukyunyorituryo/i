@@ -35,6 +35,7 @@ pathPrefix: "/i",
       },
     },
     `gatsby-plugin-image`,
+    `gatsby-plugin-twitter`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {

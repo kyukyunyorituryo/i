@@ -69,7 +69,7 @@ export default BlogIndex
  *
  * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
  */
-export const Head = () => <Seo title="電書ニュース" />
+export const Head = () => <Seo title="電書ニュース記事一覧" />
 
 export const pageQuery = graphql`
   {
