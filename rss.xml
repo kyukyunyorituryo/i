@@ -1,14 +1,781 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[電子書籍に関する情報やセールなど]]></description><link>https://kyukyunyorituryo.github.io/i</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 10 Aug 2023 16:17:28 GMT</lastBuildDate><item><title><![CDATA[gatsby-starter-blogを使ってブログを作ってみた]]></title><description><![CDATA[Gatsby…]]></description><link>https://kyukyunyorituryo.github.io/i/gatsby-starter-blog/</link><guid isPermaLink="false">https://kyukyunyorituryo.github.io/i/gatsby-starter-blog/</guid><pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Gatsbyではブログも作れるので作ってみた。ただ、普通のブログのようなコメントが外部の機能を使わないといけない。静的サイトというのはあまり書き換えることがないことが前提。マニュアルをいっぱい読むのも飽きてきたので、作りながら考えることにした。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[電子書籍に関する情報やセールなど]]></description><link>https://kyukyunyorituryo.github.io/i</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 12 Aug 2023 09:02:34 GMT</lastBuildDate><item><title><![CDATA[「Kindleセール」『違国日記』ついに完結！！　 8月の祥伝社新刊特集　30％OFF、文藝春秋 司馬遼太郎 生誕100年フェア　30％OFF、【AKITA電子祭り 夏の陣】SHY　最新20巻 ＆　桃源暗鬼　最新16巻発売フェア　30％OFF]]></title><description><![CDATA[「Kindleセール」文藝春秋 司馬遼太郎、大都社／秋水社、まんが王国コミックス、祥伝社、秋田書店
+[:contents] [小説] 漫画 文藝春秋 司馬遼太郎 生誕100年フェア　30％OFF…]]></description><link>https://kyukyunyorituryo.github.io/i/20230811/</link><guid isPermaLink="false">https://kyukyunyorituryo.github.io/i/20230811/</guid><pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;「Kindleセール」文藝春秋 司馬遼太郎、大都社／秋水社、まんが王国コミックス、祥伝社、秋田書店
+[:contents]&lt;/p&gt;
+&lt;h3&gt;[小説] 漫画 文藝春秋 司馬遼太郎 生誕100年フェア　30％OFF、その他　８月２０日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B0BTPBSLFH&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/d74ba06296dd53237075f754293faf5b/4cda9/1faab077.jpg&quot;
+                srcset=&quot;/static/d74ba06296dd53237075f754293faf5b/4cda9/1faab077.jpg 1x,
+/static/d74ba06296dd53237075f754293faf5b/3ad8d/1faab077.jpg 1.5x,
+/static/d74ba06296dd53237075f754293faf5b/c60e9/1faab077.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B00L1WDWLU&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/ae2123a13b2909ab880e2f1108294e8f/4cda9/0dd98837.jpg&quot;
+                srcset=&quot;/static/ae2123a13b2909ab880e2f1108294e8f/4cda9/0dd98837.jpg 1x,
+/static/ae2123a13b2909ab880e2f1108294e8f/3ad8d/0dd98837.jpg 1.5x,
+/static/ae2123a13b2909ab880e2f1108294e8f/c60e9/0dd98837.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B06XHG4Q83&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/ed95952c9d2c19dc436ac018203513ca/4cda9/928d7794.jpg&quot;
+                srcset=&quot;/static/ed95952c9d2c19dc436ac018203513ca/4cda9/928d7794.jpg 1x,
+/static/ed95952c9d2c19dc436ac018203513ca/3ad8d/928d7794.jpg 1.5x,
+/static/ed95952c9d2c19dc436ac018203513ca/c60e9/928d7794.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230820s34386.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」文藝春秋 司馬遼太郎 生誕100年フェア　30％OFF、その他　８月２０日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」文藝春秋 司馬遼太郎 生誕100年フェア　30％OFF、その他　８月２０日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」文藝春秋 司馬遼太郎 生誕100年フェア　30％OFF、その他　８月２０日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230820s34386.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」文藝春秋 司馬遼太郎 生誕100年フェア　30％OFF、その他　８月２０日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/5189dD4B5iL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[漫画] 夫婦の仲が壊れる…!?『妻の知らない婚前契約』 完結記念　無料＆割引、その他　８月２１日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B0BDFD9Y15&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/69c11911bc55cf07db657b4670ad6e46/4cda9/9aa0a674.jpg&quot;
+                srcset=&quot;/static/69c11911bc55cf07db657b4670ad6e46/4cda9/9aa0a674.jpg 1x,
+/static/69c11911bc55cf07db657b4670ad6e46/3ad8d/9aa0a674.jpg 1.5x,
+/static/69c11911bc55cf07db657b4670ad6e46/c60e9/9aa0a674.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B07QYV4XBV&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/191b8462f8c7f950e78fdb6cc0f8143b/4cda9/0f20fbc7.jpg&quot;
+                srcset=&quot;/static/191b8462f8c7f950e78fdb6cc0f8143b/4cda9/0f20fbc7.jpg 1x,
+/static/191b8462f8c7f950e78fdb6cc0f8143b/3ad8d/0f20fbc7.jpg 1.5x,
+/static/191b8462f8c7f950e78fdb6cc0f8143b/c60e9/0f20fbc7.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B07FKFMJYY&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/d1a93f1c4576995476e55013a2bdeaa3/4cda9/f18179e0.jpg&quot;
+                srcset=&quot;/static/d1a93f1c4576995476e55013a2bdeaa3/4cda9/f18179e0.jpg 1x,
+/static/d1a93f1c4576995476e55013a2bdeaa3/3ad8d/f18179e0.jpg 1.5x,
+/static/d1a93f1c4576995476e55013a2bdeaa3/c60e9/f18179e0.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230821s34412.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」夫婦の仲が壊れる…!?『妻の知らない婚前契約』 完結記念　無料＆割引、その他　８月２１日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」夫婦の仲が壊れる…!?『妻の知らない婚前契約』 完結記念　無料＆割引、その他　８月２１日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」夫婦の仲が壊れる…!?『妻の知らない婚前契約』 完結記念　無料＆割引、その他　８月２１日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230821s34412.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」夫婦の仲が壊れる…!?『妻の知らない婚前契約』 完結記念　無料＆割引、その他　８月２１日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/513Sr6G1KIL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[漫画] 素敵なロマンス『君が消えた保育園 7』 『カルトの楽園7』ほか 新刊配信記念　50％OFF　８月２０日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B0B1T8386S&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/9614d8c78b2a7e5400bbda93d6887e78/4cda9/cb1d3348.jpg&quot;
+                srcset=&quot;/static/9614d8c78b2a7e5400bbda93d6887e78/4cda9/cb1d3348.jpg 1x,
+/static/9614d8c78b2a7e5400bbda93d6887e78/3ad8d/cb1d3348.jpg 1.5x,
+/static/9614d8c78b2a7e5400bbda93d6887e78/c60e9/cb1d3348.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B09NBDBCZ9&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/2a1405bbc8842485d218b1b315fecb80/4cda9/be24484b.jpg&quot;
+                srcset=&quot;/static/2a1405bbc8842485d218b1b315fecb80/4cda9/be24484b.jpg 1x,
+/static/2a1405bbc8842485d218b1b315fecb80/3ad8d/be24484b.jpg 1.5x,
+/static/2a1405bbc8842485d218b1b315fecb80/c60e9/be24484b.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B0995828H6&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/c4425208bc795a469d8543eb8e961bfa/4cda9/58c5e908.jpg&quot;
+                srcset=&quot;/static/c4425208bc795a469d8543eb8e961bfa/4cda9/58c5e908.jpg 1x,
+/static/c4425208bc795a469d8543eb8e961bfa/3ad8d/58c5e908.jpg 1.5x,
+/static/c4425208bc795a469d8543eb8e961bfa/c60e9/58c5e908.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230820s34419.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」素敵なロマンス『君が消えた保育園 7』 『カルトの楽園7』ほか 新刊配信記念　50％OFF　８月２０日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」素敵なロマンス『君が消えた保育園 7』 『カルトの楽園7』ほか 新刊配信記念　50％OFF　８月２０日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」素敵なロマンス『君が消えた保育園 7』 『カルトの楽園7』ほか 新刊配信記念　50％OFF　８月２０日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230820s34419.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」素敵なロマンス『君が消えた保育園 7』 『カルトの楽園7』ほか 新刊配信記念　50％OFF　８月２０日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/513wvo6TM3L._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[漫画] 『違国日記』ついに完結！！　 8月の祥伝社新刊特集　30％OFF　８月２２日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230822s34442.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」『違国日記』ついに完結！！　 8月の祥伝社新刊特集　30％OFF　８月２２日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」『違国日記』ついに完結！！　 8月の祥伝社新刊特集　30％OFF　８月２２日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」『違国日記』ついに完結！！　 8月の祥伝社新刊特集　30％OFF　８月２２日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230822s34442.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」『違国日記』ついに完結！！　 8月の祥伝社新刊特集　30％OFF　８月２２日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/41OOF8oyGCL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[漫画] 【AKITA電子祭り 夏の陣】SHY　最新20巻 ＆　桃源暗鬼　最新16巻発売フェア　30％OFF　８月２１日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B0BS98ZRBZ&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/33fee8feaeaeee4d154278cc2800c13f/4cda9/a5470136.jpg&quot;
+                srcset=&quot;/static/33fee8feaeaeee4d154278cc2800c13f/4cda9/a5470136.jpg 1x,
+/static/33fee8feaeaeee4d154278cc2800c13f/3ad8d/a5470136.jpg 1.5x,
+/static/33fee8feaeaeee4d154278cc2800c13f/c60e9/a5470136.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0B824P9M1?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;Gran Familia １ (少年チャンピオン・コミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/510hK5FNE+L._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Gran Familia １ (少年チャンピオン・コミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B09P88RTN6?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;SANDA　２ (少年チャンピオン・コミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51U2VJQWksL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;SANDA　２ (少年チャンピオン・コミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230821s34438.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」【AKITA電子祭り 夏の陣】SHY　最新20巻 ＆　桃源暗鬼　最新16巻発売フェア　30％OFF　８月２１日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」【AKITA電子祭り 夏の陣】SHY　最新20巻 ＆　桃源暗鬼　最新16巻発売フェア　30％OFF　８月２１日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」【AKITA電子祭り 夏の陣】SHY　最新20巻 ＆　桃源暗鬼　最新16巻発売フェア　30％OFF　８月２１日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230821s34438.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」【AKITA電子祭り 夏の陣】SHY　最新20巻 ＆　桃源暗鬼　最新16巻発売フェア　30％OFF　８月２１日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/51wtdFTfQhL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[漫画] 【AKITA電子祭り 夏の陣】 「弱虫ペダル」85巻発売記念フェア！　最大50％OFF　８月２１日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0BTM39WPQ?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;はなたん―ココは華咲探偵事務所♪―　１ (少年チャンピオン・コミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51kSVogNvML._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;はなたん―ココは華咲探偵事務所♪―　１ (少年チャンピオン・コミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B01LLJ0Q5W?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;弱虫ペダル　SPARE BIKE　３ (少年チャンピオン・コミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/61DYXOAxGUL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;弱虫ペダル　SPARE BIKE　３ (少年チャンピオン・コミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B00AQY7G16?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;弱虫ペダル　5 (少年チャンピオン・コミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51tl5bSb7kL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;弱虫ペダル　5 (少年チャンピオン・コミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230821s34459.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」【AKITA電子祭り 夏の陣】 「弱虫ペダル」85巻発売記念フェア！　最大50％OFF　８月２１日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」【AKITA電子祭り 夏の陣】 「弱虫ペダル」85巻発売記念フェア！　最大50％OFF　８月２１日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」【AKITA電子祭り 夏の陣】 「弱虫ペダル」85巻発売記念フェア！　最大50％OFF　８月２１日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230821s34459.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」【AKITA電子祭り 夏の陣】 「弱虫ペダル」85巻発売記念フェア！　最大50％OFF　８月２１日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/51kSVogNvML._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[漫画] 「チキン「ドロップ」前夜の物語」最新39巻＆ 「ＷＯＲＳＴ外伝　グリコ」最新23巻発売フェア　50％OFF　８月２１日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0BFHX4NMY?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;ナインピークス　NINE PEAKS　１ (少年チャンピオン・コミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51-RBds1eXL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;ナインピークス　NINE PEAKS　１ (少年チャンピオン・コミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B09ZB93SJ3?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;WORST外伝　サブロクサンタ 名もなきカラスたち　１ (少年チャンピオン・コミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51jxPdzicPL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;WORST外伝　サブロクサンタ 名もなきカラスたち　１ (少年チャンピオン・コミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B09RQP28QV?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;QP 完全版　１ (プレイコミック・シリーズ エクストラ)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51xo73GLr6L._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;QP 完全版　１ (プレイコミック・シリーズ エクストラ)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230821s34463.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」「チキン「ドロップ」前夜の物語」最新39巻＆ 「ＷＯＲＳＴ外伝　グリコ」最新23巻発売フェア　50％OFF　８月２１日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」「チキン「ドロップ」前夜の物語」最新39巻＆ 「ＷＯＲＳＴ外伝　グリコ」最新23巻発売フェア　50％OFF　８月２１日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」「チキン「ドロップ」前夜の物語」最新39巻＆ 「ＷＯＲＳＴ外伝　グリコ」最新23巻発売フェア　50％OFF　８月２１日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230821s34463.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」「チキン「ドロップ」前夜の物語」最新39巻＆ 「ＷＯＲＳＴ外伝　グリコ」最新23巻発売フェア　50％OFF　８月２１日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/51-RBds1eXL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[「Kindleセール」白泉社 夏の名作 半額フェア2023　6期　50％OFF、芳文社「可愛い上司を困らせたい」ほか まんがタイムコミックス新刊キャンペーン　最大60％OFF、『やわ男とカタ子』ドラマ放送記念！ 自意識と向き合う　30％OFF]]></title><description><![CDATA[「Kindleセール」白泉社、スターツ出版、大都社／秋水社、秋田書店、芳文社、祥伝社 [漫画] 白泉社 夏の名作 半額フェア2023　6期　50％OFF…]]></description><link>https://kyukyunyorituryo.github.io/i/20230810/</link><guid isPermaLink="false">https://kyukyunyorituryo.github.io/i/20230810/</guid><pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;「Kindleセール」白泉社、スターツ出版、大都社／秋水社、秋田書店、芳文社、祥伝社&lt;/p&gt;
+&lt;h3&gt;[漫画] 白泉社 夏の名作 半額フェア2023　6期　50％OFF　８月１８日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B00DMU8V7E?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;ぼくの地球を守って 12 (白泉社文庫)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51aNDzGZ-dL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;ぼくの地球を守って 12 (白泉社文庫)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B00TY28KV6?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;解決 浪漫倶楽部 (白泉社文庫)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51Ddi1zMXnL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;解決 浪漫倶楽部 (白泉社文庫)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B00TY28JEO?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;月光 2 (白泉社文庫)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51OA7n3mGfL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;月光 2 (白泉社文庫)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230818s34351.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」白泉社 夏の名作 半額フェア2023　6期　50％OFF　８月１８日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」白泉社 夏の名作 半額フェア2023　6期　50％OFF　８月１８日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」白泉社 夏の名作 半額フェア2023　6期　50％OFF　８月１８日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230818s34351.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」白泉社 夏の名作 半額フェア2023　6期　50％OFF　８月１８日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/51aNDzGZ-dL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[ライトノベル] スターツ出版　子供だけど異世界で大活躍！ 女性向けファンタジー　50％OFF　８月１１日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B09DSX8YT9?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;もふもふになっちゃった幼女薬師ののんびり異世界生活～最強の加護を受けているので二度目の人生は無敵です～ (ベリーズファンタジー)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51WPVhHCt+L._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;もふもふになっちゃった幼女薬師ののんびり異世界生活～最強の加護を受けているので二度目の人生は無敵です～ (ベリーズファンタジー)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B093BLS6Y4?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;5歳の聖女は役立たずですか？ いいえ、過保護な冒険者と最強チートで平和に無双しています！【電子限定SS付き】 (ベリーズファンタジー)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51MYZXPagQS._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;5歳の聖女は役立たずですか？ いいえ、過保護な冒険者と最強チートで平和に無双しています！【電子限定SS付き】 (ベリーズファンタジー)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B08PD6FLH6?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;へっぽこ幼女薬師はもふもふ神獣と仲良しなので最強です！ (ベリーズファンタジー)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51rMDUDn9yL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;へっぽこ幼女薬師はもふもふ神獣と仲良しなので最強です！ (ベリーズファンタジー)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230811s34394.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」スターツ出版　子供だけど異世界で大活躍！ 女性向けファンタジー　50％OFF　８月１１日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」スターツ出版　子供だけど異世界で大活躍！ 女性向けファンタジー　50％OFF　８月１１日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」スターツ出版　子供だけど異世界で大活躍！ 女性向けファンタジー　50％OFF　８月１１日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230811s34394.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」スターツ出版　子供だけど異世界で大活躍！ 女性向けファンタジー　50％OFF　８月１１日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/51WPVhHCt+L._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[漫画] 大都社／秋水社　ペット宣言 ハムスターの日記念 ハムスター作品など　無料＆割引　８月１８日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0BR52PWS9?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;花丸ハムスター【単行本版】3 (ペット宣言)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51A3A9cDnVL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;花丸ハムスター【単行本版】3 (ペット宣言)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B08LPVY4Q3?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;しろすけとフクゾウ 1 (ペット宣言)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51uBeevkBDL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;しろすけとフクゾウ 1 (ペット宣言)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B08J3ZVZFS?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;新こつぶの日常茶飯事 2 (ペット宣言)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51dvK1-N75L._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;新こつぶの日常茶飯事 2 (ペット宣言)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230818s34366.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」大都社／秋水社　ペット宣言 ハムスターの日記念 ハムスター作品など　無料＆割引　８月１８日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」大都社／秋水社　ペット宣言 ハムスターの日記念 ハムスター作品など　無料＆割引　８月１８日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」大都社／秋水社　ペット宣言 ハムスターの日記念 ハムスター作品など　無料＆割引　８月１８日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230818s34366.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」大都社／秋水社　ペット宣言 ハムスターの日記念 ハムスター作品など　無料＆割引　８月１８日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/51A3A9cDnVL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[漫画] 秋田書店 8/25公開映画「Ｇメン」フェア　50％OFF　８月２４日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B013DZ3NR0?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;Gメン　３ (少年チャンピオン・コミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51OuXTdM76L._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Gメン　３ (少年チャンピオン・コミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B00HS9UUBA?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;777　スリーセブン　１ (少年チャンピオン・コミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51uwYzxn2NL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;777　スリーセブン　１ (少年チャンピオン・コミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B00FR1KUSO?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;ガキ教室　１ (少年チャンピオン・コミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51k2lU9XGEL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;ガキ教室　１ (少年チャンピオン・コミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230824s34377.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」秋田書店 8/25公開映画「Ｇメン」フェア　50％OFF　８月２４日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」秋田書店 8/25公開映画「Ｇメン」フェア　50％OFF　８月２４日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」秋田書店 8/25公開映画「Ｇメン」フェア　50％OFF　８月２４日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230824s34377.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」秋田書店 8/25公開映画「Ｇメン」フェア　50％OFF　８月２４日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/51OuXTdM76L._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[漫画] 【AKITA電子祭り 夏の陣】クワトロバッテリー ＆AKITA野球コミック大集合フェア　50％OFF　８月１９日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0CBBWPL3L?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;クワトロバッテリー　11 (少年チャンピオン・コミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51hfSAIG8yL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;クワトロバッテリー　11 (少年チャンピオン・コミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0CBBSLTQR?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;八月のシンデレラナインS　５ (少年チャンピオン・コミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51HqbESktaL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;八月のシンデレラナインS　５ (少年チャンピオン・コミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B07FNDKM17?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;栄冠はオレに輝け！！ ワイルドカード　１ (少年チャンピオン・コミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51XZyO58CtL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;栄冠はオレに輝け！！ ワイルドカード　１ (少年チャンピオン・コミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230819s34435.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」【AKITA電子祭り 夏の陣】クワトロバッテリー ＆AKITA野球コミック大集合フェア　50％OFF　８月１９日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」【AKITA電子祭り 夏の陣】クワトロバッテリー ＆AKITA野球コミック大集合フェア　50％OFF　８月１９日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」【AKITA電子祭り 夏の陣】クワトロバッテリー ＆AKITA野球コミック大集合フェア　50％OFF　８月１９日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230819s34435.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」【AKITA電子祭り 夏の陣】クワトロバッテリー ＆AKITA野球コミック大集合フェア　50％OFF　８月１９日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/51hfSAIG8yL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[漫画] 『やわ男とカタ子』ドラマ放送記念！ 自意識と向き合う　30％OFF　８月２１日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0BYJF973R?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;やわ男とカタ子（８）【電子限定特典付】 (FEEL COMICS swing)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51fvSVC3QlL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;やわ男とカタ子（８）【電子限定特典付】 (FEEL COMICS swing)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B01GCNUCJ2?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;こんな私はだめですか？ (FEEL COMICS)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51vk-b7GdRL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;こんな私はだめですか？ (FEEL COMICS)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0BQ6T9K9V?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;小鳥遊くんを射とめたい～「ど本命婚」するためのメス力講座～ (FC Jam)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51WsWd0vMTL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;小鳥遊くんを射とめたい～「ど本命婚」するためのメス力講座～ (FC Jam)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230821s34399.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」『やわ男とカタ子』ドラマ放送記念！ 自意識と向き合う　30％OFF　８月２１日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」『やわ男とカタ子』ドラマ放送記念！ 自意識と向き合う　30％OFF　８月２１日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」『やわ男とカタ子』ドラマ放送記念！ 自意識と向き合う　30％OFF　８月２１日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230821s34399.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」『やわ男とカタ子』ドラマ放送記念！ 自意識と向き合う　30％OFF　８月２１日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/51fvSVC3QlL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[漫画] 芳文社「可愛い上司を困らせたい」ほか まんがタイムコミックス新刊キャンペーン　最大60％OFF、その他　８月２０日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0CBRZPVBH?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;可愛い上司を困らせたい　７巻【Amazon.co.jp限定描き下ろし特典付き】 (まんがタイムコミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/518iNZA+BdL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;可愛い上司を困らせたい　７巻【Amazon.co.jp限定描き下ろし特典付き】 (まんがタイムコミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0CBRZJWBH?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;ラディカル・ホスピタル　３９巻 (まんがタイムコミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51OxUC1gyVL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;ラディカル・ホスピタル　３９巻 (まんがタイムコミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B09MQ7KF8W?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;ぼっちの僕に強制彼女がやってきた　１巻 (トレイルコミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/419adQnj-UL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;ぼっちの僕に強制彼女がやってきた　１巻 (トレイルコミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230820s34401.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」芳文社「可愛い上司を困らせたい」ほか まんがタイムコミックス新刊キャンペーン　最大60％OFF、その他　８月２０日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」芳文社「可愛い上司を困らせたい」ほか まんがタイムコミックス新刊キャンペーン　最大60％OFF、その他　８月２０日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」芳文社「可愛い上司を困らせたい」ほか まんがタイムコミックス新刊キャンペーン　最大60％OFF、その他　８月２０日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230820s34401.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」芳文社「可愛い上司を困らせたい」ほか まんがタイムコミックス新刊キャンペーン　最大60％OFF、その他　８月２０日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/518iNZA+BdL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[gatsby-starter-blogを使ってブログを作ってみた]]></title><description><![CDATA[Gatsby…]]></description><link>https://kyukyunyorituryo.github.io/i/gatsby-starter-blog/</link><guid isPermaLink="false">https://kyukyunyorituryo.github.io/i/gatsby-starter-blog/</guid><pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Gatsbyではブログも作れるので作ってみた。ただ、普通のブログのようなコメントが外部の機能を使わないといけない。静的サイトというのはあまり書き換えることがないことが前提。マニュアルをいっぱい読むのも飽きてきたので、作りながら考えることにした。&lt;/p&gt;
 &lt;p&gt;作ったのがこれ、まだちゃんと設定ができていない。&lt;/p&gt;
 &lt;p&gt;&lt;div&gt;
         &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/i/&quot; class=&quot;link-card-container&quot;&gt;
             &lt;div class=&quot;link-card-wrapper&quot;&gt;
                 &lt;div class=&quot;link-card-text&quot;&gt;
-                    &lt;div class=&quot;link-card-title&quot;&gt;All posts | 電書ニュース&lt;/div&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;電書ニュース記事一覧 | 電書ニュース&lt;/div&gt;
                     &lt;div class=&quot;link-card-description&quot;&gt;電子書籍に関する情報やセールなど&lt;/div&gt;
                 &lt;/div&gt;
                 &lt;div class=&quot;link-card-url&quot;&gt;
-                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/i/favicon-32x32.png?v=4a9773549091c227cd2eb82ccd9c5e3a&quot; alt=&quot;All posts | 電書ニュース-favicon&quot;/&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/i/favicon-32x32.png?v=4a9773549091c227cd2eb82ccd9c5e3a&quot; alt=&quot;電書ニュース記事一覧 | 電書ニュース-favicon&quot;/&gt;
                     &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/i/&lt;/div&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
@@ -247,6 +1014,440 @@ warn gatsby-plugin-react-helmet: Gatsby now has…&lt;/div&gt;
             &lt;/div&gt;
             &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
                             &lt;img class=&quot;link-card-image&quot; alt=&quot;GatsbyをGitHub Pagesに出力する - KDP(電子出版)のメモ　急急如律令-image&quot; src=&quot;https://cdn.image.st-hatena.com/image/square/adad63b72f1d6545b2ba2538c3fc2923b2fd5989/backend=imagemagick;height=80;version=1;width=80/https%3A%2F%2Fcdn.blog.st-hatena.com%2Fimages%2Fcircle%2Fofficial-circle-icon%2Fcomputers.gif&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[「Kindleセール」文藝春秋　怪談ホラーフェア　30％ポイントバック、日経BP月間セール　40％OFF、コスミック出版　自由研究や工作にも！ 親子で楽しむ夏休み特集　50％OFF]]></title><description><![CDATA[「Kindleセール」日経BP、文藝春秋、秋水社、コスミック出版、フェアベル、花とゆめコミックスなど [実用書] 日経BP月間セール　40％OFF　８月３１日 まで    その他のセール本  [小説] [漫画] 文藝春秋　怪談ホラーフェア　3…]]></description><link>https://kyukyunyorituryo.github.io/i/20230809/</link><guid isPermaLink="false">https://kyukyunyorituryo.github.io/i/20230809/</guid><pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;「Kindleセール」日経BP、文藝春秋、秋水社、コスミック出版、フェアベル、花とゆめコミックスなど&lt;/p&gt;
+&lt;h3&gt;[実用書] 日経BP月間セール　40％OFF　８月３１日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B09HXDSTSQ&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/9578af2bde89331b79af8b3ac8693ce1/4cda9/35db4f98.jpg&quot;
+                srcset=&quot;/static/9578af2bde89331b79af8b3ac8693ce1/4cda9/35db4f98.jpg 1x,
+/static/9578af2bde89331b79af8b3ac8693ce1/3ad8d/35db4f98.jpg 1.5x,
+/static/9578af2bde89331b79af8b3ac8693ce1/c60e9/35db4f98.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B00W535LOU&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/6aeebd98d77f09acf5b5945fbff94218/4cda9/b9a7c35e.jpg&quot;
+                srcset=&quot;/static/6aeebd98d77f09acf5b5945fbff94218/4cda9/b9a7c35e.jpg 1x,
+/static/6aeebd98d77f09acf5b5945fbff94218/3ad8d/b9a7c35e.jpg 1.5x,
+/static/6aeebd98d77f09acf5b5945fbff94218/c60e9/b9a7c35e.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B073TSJ8KL&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/317a87aacd725e910531522fceab62cb/4cda9/3ae9d047.jpg&quot;
+                srcset=&quot;/static/317a87aacd725e910531522fceab62cb/4cda9/3ae9d047.jpg 1x,
+/static/317a87aacd725e910531522fceab62cb/3ad8d/3ae9d047.jpg 1.5x,
+/static/317a87aacd725e910531522fceab62cb/c60e9/3ae9d047.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230831s34195.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」日経BP月間セール　40％OFF　８月３１日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」日経BP月間セール　40％OFF　８月３１日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」日経BP月間セール　40％OFF　８月３１日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230831s34195.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」日経BP月間セール　40％OFF　８月３１日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/51u4SmBVhfL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[小説] [漫画] 文藝春秋　怪談ホラーフェア　30％ポイントバック、その他　８月１５日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B0CCVBT92D&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/31a24e318bb3a6c45e57b9fcd6555fc5/4cda9/3bbbe76e.jpg&quot;
+                srcset=&quot;/static/31a24e318bb3a6c45e57b9fcd6555fc5/4cda9/3bbbe76e.jpg 1x,
+/static/31a24e318bb3a6c45e57b9fcd6555fc5/3ad8d/3bbbe76e.jpg 1.5x,
+/static/31a24e318bb3a6c45e57b9fcd6555fc5/c60e9/3bbbe76e.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B0829NPTCN&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/af79a2b5b61aaf46d19e6e5c58eac73c/4cda9/39eccefa.jpg&quot;
+                srcset=&quot;/static/af79a2b5b61aaf46d19e6e5c58eac73c/4cda9/39eccefa.jpg 1x,
+/static/af79a2b5b61aaf46d19e6e5c58eac73c/3ad8d/39eccefa.jpg 1.5x,
+/static/af79a2b5b61aaf46d19e6e5c58eac73c/c60e9/39eccefa.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B00KGVTYDM&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/74b9c4bd7903d8766582a17baf9772c2/4cda9/cc7b08c4.jpg&quot;
+                srcset=&quot;/static/74b9c4bd7903d8766582a17baf9772c2/4cda9/cc7b08c4.jpg 1x,
+/static/74b9c4bd7903d8766582a17baf9772c2/3ad8d/cc7b08c4.jpg 1.5x,
+/static/74b9c4bd7903d8766582a17baf9772c2/c60e9/cc7b08c4.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230815s34258.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」文藝春秋　怪談ホラーフェア　30％ポイントバック、その他　８月１５日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」文藝春秋　怪談ホラーフェア　30％ポイントバック、その他　８月１５日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」文藝春秋　怪談ホラーフェア　30％ポイントバック、その他　８月１５日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230815s34258.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」文藝春秋　怪談ホラーフェア　30％ポイントバック、その他　８月１５日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/61wY5mipiiL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[小説] [漫画] 文藝春秋　京都が舞台の作品フェア　30％ポイントバック、その他　８月１６日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B0CC4QLFKF&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/f5b52e19551e2928fcd55c61dc184997/4cda9/f022ac0a.jpg&quot;
+                srcset=&quot;/static/f5b52e19551e2928fcd55c61dc184997/4cda9/f022ac0a.jpg 1x,
+/static/f5b52e19551e2928fcd55c61dc184997/3ad8d/f022ac0a.jpg 1.5x,
+/static/f5b52e19551e2928fcd55c61dc184997/c60e9/f022ac0a.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B0BX69X62M&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/0d5c825625b40962ec8acae408ef8cb2/4cda9/65430bc5.jpg&quot;
+                srcset=&quot;/static/0d5c825625b40962ec8acae408ef8cb2/4cda9/65430bc5.jpg 1x,
+/static/0d5c825625b40962ec8acae408ef8cb2/3ad8d/65430bc5.jpg 1.5x,
+/static/0d5c825625b40962ec8acae408ef8cb2/c60e9/65430bc5.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B0BZVGL8PK&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/d378a5bc2f5a6eadd2b83ad47a9db1c2/4cda9/4e04ac67.jpg&quot;
+                srcset=&quot;/static/d378a5bc2f5a6eadd2b83ad47a9db1c2/4cda9/4e04ac67.jpg 1x,
+/static/d378a5bc2f5a6eadd2b83ad47a9db1c2/3ad8d/4e04ac67.jpg 1.5x,
+/static/d378a5bc2f5a6eadd2b83ad47a9db1c2/c60e9/4e04ac67.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230816s34267.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」文藝春秋　京都が舞台の作品フェア　30％ポイントバック、その他　８月１６日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」文藝春秋　京都が舞台の作品フェア　30％ポイントバック、その他　８月１６日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」文藝春秋　京都が舞台の作品フェア　30％ポイントバック、その他　８月１６日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230816s34267.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」文藝春秋　京都が舞台の作品フェア　30％ポイントバック、その他　８月１６日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/61l7YEuayoL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[漫画] 『嫌われ王女は獣王様のお気に入り～9』ほか 新刊配信記念　無料＆割引　８月１３日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/:B0BWJ8BRBY&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/3ec74da5131b39b64d6f5e16d248f6fb/4cda9/421c032d.jpg&quot;
+                srcset=&quot;/static/3ec74da5131b39b64d6f5e16d248f6fb/4cda9/421c032d.jpg 1x,
+/static/3ec74da5131b39b64d6f5e16d248f6fb/3ad8d/421c032d.jpg 1.5x,
+/static/3ec74da5131b39b64d6f5e16d248f6fb/c60e9/421c032d.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd+LAD//xAAXEAEAAwAAAAAAAAAAAAAAAAABABEg/9oACAEBAAEFAoFZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAAERIEH/2gAIAQEAAT8hZgiv/9oADAMBAAIAAwAAABAAD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQACAwAAAAAAAAAAAAAAAAEAESAhcf/aAAgBAQABPxAKaagigOFY/wD/2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0C6LDVL58?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;カモ女とサギ男【合冊版】1 (素敵なロマンス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51nOvLkndwL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;カモ女とサギ男【合冊版】1 (素敵なロマンス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0BYNK5GH9?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;転生令嬢は婚約者の義兄に執愛されています【合冊版】1 (素敵なロマンス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51z0+1U3+yL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;転生令嬢は婚約者の義兄に執愛されています【合冊版】1 (素敵なロマンス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230813s34190.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」『嫌われ王女は獣王様のお気に入り～9』ほか 新刊配信記念　無料＆割引　８月１３日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」『嫌われ王女は獣王様のお気に入り～9』ほか 新刊配信記念　無料＆割引　８月１３日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」『嫌われ王女は獣王様のお気に入り～9』ほか 新刊配信記念　無料＆割引　８月１３日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230813s34190.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」『嫌われ王女は獣王様のお気に入り～9』ほか 新刊配信記念　無料＆割引　８月１３日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/51G1AyU1dSL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[実用書] コスミック出版　自由研究や工作にも！ 親子で楽しむ夏休み特集　50％OFF　８月１７日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0789H4RW8?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;幻想世界・モンスターの描き方 (コスミックムック)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51VEhpOIAZL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;幻想世界・モンスターの描き方 (コスミックムック)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B097C2L4F7?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;戦のねだん (コスミックムック)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/61OgKIuXuzS._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;戦のねだん (コスミックムック)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B091XWJXDC?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;超解説！戦国武将まるわかり事典 (コスミックムック)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51kKCOa-tWL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;超解説！戦国武将まるわかり事典 (コスミックムック)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230817s34340.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」コスミック出版　自由研究や工作にも！ 親子で楽しむ夏休み特集　50％OFF　８月１７日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」コスミック出版　自由研究や工作にも！ 親子で楽しむ夏休み特集　50％OFF　８月１７日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」コスミック出版　自由研究や工作にも！ 親子で楽しむ夏休み特集　50％OFF　８月１７日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230817s34340.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」コスミック出版　自由研究や工作にも！ 親子で楽しむ夏休み特集　50％OFF　８月１７日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/51VEhpOIAZL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[漫画] 一番アツい夏、このトキメキとめないで！ 夏の大セール　最大50％OFF　８月１７日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B00UHGDRSY?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;赤い蝶月の夜(4) (フレイヤコミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/517YQlIUBgL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;赤い蝶月の夜(4) (フレイヤコミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B00IHRNISE?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;ないものねだり（１） (フェアベルコミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/513nyNI+zPL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;ないものねだり（１） (フェアベルコミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B00IHRNJHY?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;耳をすませば&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51JmmOUUUiL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;耳をすませば-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230817s34305.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」一番アツい夏、このトキメキとめないで！ 夏の大セール　最大50％OFF　８月１７日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」一番アツい夏、このトキメキとめないで！ 夏の大セール　最大50％OFF　８月１７日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」一番アツい夏、このトキメキとめないで！ 夏の大セール　最大50％OFF　８月１７日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230817s34305.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」一番アツい夏、このトキメキとめないで！ 夏の大セール　最大50％OFF　８月１７日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/51ClT0HNVZL._SL500_.jpg&quot; /&gt;
+                        &lt;/div&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;&lt;/p&gt;
+&lt;h3&gt;[漫画] 夏休みはお得マンガで夜更かし☆ キャンペーン 第1弾　20％OFF　８月１７日 まで&lt;/h3&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0BCWBWTWF?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;コイビトシャッフル～異性に興奮したら死～【おまけ描き下ろし付き】 (花とゆめコミックススペシャル)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51dE-XbP5iL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;コイビトシャッフル～異性に興奮したら死～【おまけ描き下ろし付き】 (花とゆめコミックススペシャル)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0B5QB9S12?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;私、あなたの好きな人じゃありません【おまけ描き下ろし付き】 (花とゆめコミックススペシャル)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51+2Fe5Ng0L._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;私、あなたの好きな人じゃありません【おまけ描き下ろし付き】 (花とゆめコミックススペシャル)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0B3X765SH?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
+          &lt;div class=&quot;amazon-card-body&quot;&gt;
+            &lt;div class=&quot;amazon-card-title&quot;&gt;バケモノリミット 1 (花とゆめコミックス)&lt;/div&gt;
+            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
+            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/514ImiKvUQL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;バケモノリミット 1 (花とゆめコミックス)-image&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;その他のセール本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+        &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230817s34361.html&quot; class=&quot;link-card-container&quot;&gt;
+            &lt;div class=&quot;link-card-wrapper&quot;&gt;
+                &lt;div class=&quot;link-card-text&quot;&gt;
+                    &lt;div class=&quot;link-card-title&quot;&gt;「Kindleセール」夏休みはお得マンガで夜更かし☆ キャンペーン 第1弾　20％OFF　８月１７日 まで&lt;/div&gt;
+                    &lt;div class=&quot;link-card-description&quot;&gt;「Kindleセール」夏休みはお得マンガで夜更かし☆ キャンペーン 第1弾　20％OFF　８月１７日 まで&lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;link-card-url&quot;&gt;
+                    &lt;img class=&quot;link-card-favicon&quot; src=&quot;https://kyukyunyorituryo.github.io/kindle_sale/favicon.ico&quot; alt=&quot;「Kindleセール」夏休みはお得マンガで夜更かし☆ キャンペーン 第1弾　20％OFF　８月１７日 まで-favicon&quot;/&gt;
+                    &lt;div class=&quot;link-card-link&quot;&gt;https://kyukyunyorituryo.github.io/kindle_sale/html/20230817s34361.html&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;link-card-image-wrapper&quot;&gt;
+                            &lt;img class=&quot;link-card-image&quot; alt=&quot;「Kindleセール」夏休みはお得マンガで夜更かし☆ キャンペーン 第1弾　20％OFF　８月１７日 まで-image&quot; src=&quot;https://m.media-amazon.com/images/I/51dE-XbP5iL._SL500_.jpg&quot; /&gt;
                         &lt;/div&gt;
         &lt;/a&gt;
     &lt;/div&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[早川書房 夏の大感謝セール最大50%OFF、講談社、 主婦と生活社、新潮社、スクエニのセール]]></title><description><![CDATA[「Kindleセール」早川書房、講談社、 主婦と生活社、新潮社、スクエニなど
@@ -1153,102 +2354,158 @@ warn gatsby-plugin-react-helmet: Gatsby now has…&lt;/div&gt;
           &lt;/div&gt;
         &lt;/a&gt;
       &lt;/div&gt;
-&lt;div&gt;
-        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B08Q3JKH6S?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
-          &lt;div class=&quot;amazon-card-body&quot;&gt;
-            &lt;div class=&quot;amazon-card-title&quot;&gt;神様の御用人9 (メディアワークス文庫)&lt;/div&gt;
-            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
-            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51zDfKvuVdL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;神様の御用人9 (メディアワークス文庫)-image&quot; /&gt;
-          &lt;/div&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;
-&lt;div&gt;
-        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0BHV85XN2?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
-          &lt;div class=&quot;amazon-card-body&quot;&gt;
-            &lt;div class=&quot;amazon-card-title&quot;&gt;新装版 タイム・リープ〈下〉　あしたはきのう (メディアワークス文庫)&lt;/div&gt;
-            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
-            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51PYg9nGKPL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;新装版 タイム・リープ〈下〉　あしたはきのう (メディアワークス文庫)-image&quot; /&gt;
-          &lt;/div&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;&lt;/p&gt;
+&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/B08Q3JKH6S&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/62793beb24ec879b5b1bf6bb467bb302/4cda9/16af9d6f.jpg&quot;
+                srcset=&quot;/static/62793beb24ec879b5b1bf6bb467bb302/4cda9/16af9d6f.jpg 1x,
+/static/62793beb24ec879b5b1bf6bb467bb302/3ad8d/16af9d6f.jpg 1.5x,
+/static/62793beb24ec879b5b1bf6bb467bb302/c60e9/16af9d6f.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAF2i9VDyaK//8QAGhAAAwEAAwAAAAAAAAAAAAAAAAEDFAIRIf/aAAgBAQABBQLJIcUzPIguWheD7P/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAAFBQAAAAAAAAAAAAAAAAABETKRAhBBYXH/2gAIAQEABj8CzIcadDCgVLu//8QAGxAAAwACAwAAAAAAAAAAAAAAAAERITFhkaH/2gAIAQEAAT8hi7sEkryYUSINSKR2MtjJh+H/2gAMAwEAAgADAAAAEOQP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAGB/9oACAEDAQE/EJWv/8QAGREAAwADAAAAAAAAAAAAAAAAAAERYZHw/9oACAECAQE/EGoTHbP/xAAaEAEBAQEBAQEAAAAAAAAAAAABEQAhMWFR/9oACAEBAAE/EJR5RvcmUV3EVdAgfHDjoC5J48cgiBfwwrCfc//Z&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;
+&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/B0BHV85XN2&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/f08a0a8dca23d5c509a109672e2d34b2/4cda9/6442d075.jpg&quot;
+                srcset=&quot;/static/f08a0a8dca23d5c509a109672e2d34b2/4cda9/6442d075.jpg 1x,
+/static/f08a0a8dca23d5c509a109672e2d34b2/3ad8d/6442d075.jpg 1.5x,
+/static/f08a0a8dca23d5c509a109672e2d34b2/c60e9/6442d075.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFdtqkmWX//xAAaEAADAAMBAAAAAAAAAAAAAAAAAQMCBBIT/9oACAEBAAEFAsteWBymKUSffoM//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BR//EAB0QAAECBwAAAAAAAAAAAAAAAAACEQEQMTNDcaH/2gAIAQEABj8Cdlx0ZC3wU9J//8QAGxABAAMAAwEAAAAAAAAAAAAAAQARITFBcaH/2gAIAQEAAT8hrvqKieuL0jFHX2SKmrrYBewbyz//2gAMAwEAAgADAAAAEDAP/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERITH/2gAIAQMBAT8QpPCUf//EABgRAAIDAAAAAAAAAAAAAAAAAAABEWGh/9oACAECAQE/EE5HTT//xAAaEAEBAQEBAQEAAAAAAAAAAAABEQAxIVFB/9oACAEBAAE/EPf9etcffmUQ+3qm7lLJF0+i0wncRMjr3K/g7//Z&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;その他のセール本&lt;/p&gt;
 &lt;iframe src=&quot;https://hatenablog-parts.com/embed?url=https%3A%2F%2Fkyukyunyorituryo.github.io%2Fkindle_sale%2Fhtml%2F20230810s34129.html&quot; title=&quot;「Kindleセール」シリーズ一気読み！ 夏のメディアワークス文庫フェア　最大50％OFF　８月１０日 まで&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
 &lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230810s34129.html&quot;&gt;kyukyunyorituryo.github.io&lt;/a&gt;&lt;/cite&gt;
 &lt;h3&gt;[漫画] 祝！謎丸アニメ最終回＆ FGO8周年記念フェア　最大50％OFF、その他　８月１４日 まで&lt;/h3&gt;
-&lt;p&gt;&lt;div&gt;
-        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B09XQL5VCJ?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
-          &lt;div class=&quot;amazon-card-body&quot;&gt;
-            &lt;div class=&quot;amazon-card-title&quot;&gt;Fate/Grand Order 藤丸立香はわからない （2） (角川コミックス・エース・エクストラ)&lt;/div&gt;
-            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
-            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/516tRiuiyQL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Fate/Grand Order 藤丸立香はわからない （2） (角川コミックス・エース・エクストラ)-image&quot; /&gt;
-          &lt;/div&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;
-&lt;div&gt;
-        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0C27C4H7R?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
-          &lt;div class=&quot;amazon-card-body&quot;&gt;
-            &lt;div class=&quot;amazon-card-title&quot;&gt;Fate/Grand Order CHAOS TRIP！ nipi作品集 (角川コミックス・エース)&lt;/div&gt;
-            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
-            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51ntrIC-qQL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Fate/Grand Order CHAOS TRIP！ nipi作品集 (角川コミックス・エース)-image&quot; /&gt;
-          &lt;/div&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;
-&lt;div&gt;
-        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B09N6PBC4Z?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
-          &lt;div class=&quot;amazon-card-body&quot;&gt;
-            &lt;div class=&quot;amazon-card-title&quot;&gt;Fate/Grand Order SABER WARS 2　番外編 ジェーン＆イシュタル～100万光年の流れ星～ (単行本コミックス)&lt;/div&gt;
-            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
-            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/51yKKs5kIbL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Fate/Grand Order SABER WARS 2　番外編 ジェーン＆イシュタル～100万光年の流れ星～ (単行本コミックス)-image&quot; /&gt;
-          &lt;/div&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/B09XQL5VCJ&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/e62df4c3fbefd818773aa5965eb70b56/4cda9/2699283a.jpg&quot;
+                srcset=&quot;/static/e62df4c3fbefd818773aa5965eb70b56/4cda9/2699283a.jpg 1x,
+/static/e62df4c3fbefd818773aa5965eb70b56/3ad8d/2699283a.jpg 1.5x,
+/static/e62df4c3fbefd818773aa5965eb70b56/c60e9/2699283a.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABAv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABfvSQ8ixf/8QAGxABAAICAwAAAAAAAAAAAAAAAQADAhMUITH/2gAIAQEAAQUC4lRGkZoqmIlh3H3/xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAwEBPwGH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAgIDAQAAAAAAAAAAAAAAAAEykQIQQUL/2gAIAQEABj8C7ZJ2QVGT87//xAAbEAADAAIDAAAAAAAAAAAAAAAAARFRYSExQf/aAAgBAQABPyGyywknC8sKZG+7LOyPBsZ//9oADAMBAAIAAwAAABA0L//EABYRAQEBAAAAAAAAAAAAAAAAAAABIf/aAAgBAwEBPxC6R//EABcRAAMBAAAAAAAAAAAAAAAAAAABEeH/2gAIAQIBAT8QHLp//8QAGRABAAMBAQAAAAAAAAAAAAAAAQARIWFB/9oACAEBAAE/EEQ0k2zVR43Kk1QQw4i4abZo1vEAUDD0hLZ8Gf/Z&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;
+&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/B0C27C4H7R&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/0fed82466672222d537a00e1075bba81/4cda9/b48d74a0.jpg&quot;
+                srcset=&quot;/static/0fed82466672222d537a00e1075bba81/4cda9/b48d74a0.jpg 1x,
+/static/0fed82466672222d537a00e1075bba81/3ad8d/b48d74a0.jpg 1.5x,
+/static/0fed82466672222d537a00e1075bba81/c60e9/b48d74a0.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAF2jdSSTIP/xAAYEAADAQEAAAAAAAAAAAAAAAAAAQMCFP/aAAgBAQABBQLkkOKOWJDDzdIZ/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAh/9oACAEDAQE/ATF//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAIQMpFB/9oACAEBAAY/Au6WbSo8/wD/xAAaEAEAAgMBAAAAAAAAAAAAAAABABEhMVGB/9oACAEBAAE/IaWzKHWWEFG0WEMjT7O1X2DO2f/aAAwDAQACAAMAAAAQuB//xAAXEQEAAwAAAAAAAAAAAAAAAAAAAREh/9oACAEDAQE/EIWY/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAgBAgEBPxBjuH//xAAcEAEAAwACAwAAAAAAAAAAAAABABEhMZFBUWH/2gAIAQEAAT8QrcJN2lQFUcRewHDvwsSSWrTz6d9SzTjoJe2r4M//2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;
+&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/B09N6PBC4Z&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/3207657229c0e4b4293c4e748e70a362/4cda9/9a430c3d.jpg&quot;
+                srcset=&quot;/static/3207657229c0e4b4293c4e748e70a362/4cda9/9a430c3d.jpg 1x,
+/static/3207657229c0e4b4293c4e748e70a362/3ad8d/9a430c3d.jpg 1.5x,
+/static/3207657229c0e4b4293c4e748e70a362/c60e9/9a430c3d.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAF2tJDSLF//xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIDERITFP/aAAgBAQABBQLkitYUNEIxq50W0//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwFlf//EABURAQEAAAAAAAAAAAAAAAAAAAAi/9oACAECAQE/AUv/xAAZEAACAwEAAAAAAAAAAAAAAAAAARAykUH/2gAIAQEABj8C7pZ6VQ3P/8QAGxAAAwACAwAAAAAAAAAAAAAAAAERMVEhcdH/2gAIAQEAAT8hijl7DXFVpsQ8ymVKOoSZhFu56P/aAAwDAQACAAMAAAAQ9y//xAAWEQEBAQAAAAAAAAAAAAAAAAAAMWH/2gAIAQMBAT8QjF//xAAXEQEAAwAAAAAAAAAAAAAAAAAAEVGh/9oACAECAQE/EE21/8QAGxABAAMBAAMAAAAAAAAAAAAAAQARITFBUWH/2gAIAQEAAT8QSjytGqhK3cUrhmqr4gT1AiIt4welzvuIBBbdT//Z&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;その他のセール本&lt;/p&gt;
 &lt;iframe src=&quot;https://hatenablog-parts.com/embed?url=https%3A%2F%2Fkyukyunyorituryo.github.io%2Fkindle_sale%2Fhtml%2F20230814s34203.html&quot; title=&quot;「Kindleセール」祝！謎丸アニメ最終回＆ FGO8周年記念フェア　最大50％OFF、その他　８月１４日 まで&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
 &lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230814s34203.html&quot;&gt;kyukyunyorituryo.github.io&lt;/a&gt;&lt;/cite&gt;
 &lt;h3&gt;[小説] KADOKAWA 大人気の鉄板本フェア　30％OFF　８月１０日 まで&lt;/h3&gt;
-&lt;p&gt;&lt;div&gt;
-        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B0BRYVWHRS?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
-          &lt;div class=&quot;amazon-card-body&quot;&gt;
-            &lt;div class=&quot;amazon-card-title&quot;&gt;暴虎の牙　下 「孤狼の血」シリーズ (角川文庫)&lt;/div&gt;
-            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
-            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/41d2wPu5F6L._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;暴虎の牙　下 「孤狼の血」シリーズ (角川文庫)-image&quot; /&gt;
-          &lt;/div&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;
-&lt;div&gt;
-        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B085ZRZ1T1?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
-          &lt;div class=&quot;amazon-card-body&quot;&gt;
-            &lt;div class=&quot;amazon-card-title&quot;&gt;凶犬の眼 「孤狼の血」シリーズ (角川文庫)&lt;/div&gt;
-            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
-            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/41DJWGXOW6L._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;凶犬の眼 「孤狼の血」シリーズ (角川文庫)-image&quot; /&gt;
-          &lt;/div&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;
-&lt;div&gt;
-        &lt;a class=&quot;amazon-card-container&quot; href=&quot;https://www.amazon.co.jp/dp/B009GPM8LE?tag=kyukyunyorituryo-22&amp;linkCode=ogi&amp;th=1&amp;psc=1&quot;&gt;
-          &lt;div class=&quot;amazon-card-body&quot;&gt;
-            &lt;div class=&quot;amazon-card-title&quot;&gt;新版　悪魔の飽食　日本細菌戦部隊の恐怖の実像！ (角川文庫)&lt;/div&gt;
-            &lt;div class=&quot;amazon-card-domain&quot;&gt;amazon.co.jp&lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;amazon-card-image-container&quot; &gt;
-            &lt;img class=&quot;amazon-card-image&quot; src=&quot;https://m.media-amazon.com/images/I/61hEKvBrxcL._SL160_.jpg&quot; loading=&quot;lazy&quot; alt=&quot;新版　悪魔の飽食　日本細菌戦部隊の恐怖の実像！ (角川文庫)-image&quot; /&gt;
-          &lt;/div&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/B0BRYVWHRS&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/ad3b298e2321c7d152d21805384dcc6a/4cda9/b2736884.jpg&quot;
+                srcset=&quot;/static/ad3b298e2321c7d152d21805384dcc6a/4cda9/b2736884.jpg 1x,
+/static/ad3b298e2321c7d152d21805384dcc6a/3ad8d/b2736884.jpg 1.5x,
+/static/ad3b298e2321c7d152d21805384dcc6a/c60e9/b2736884.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAXpJa00DBk//xAAbEAACAgMBAAAAAAAAAAAAAAAAAQMEEBETFP/aAAgBAQABBQLyRDhTOEJWTVjeP//EABYRAAMAAAAAAAAAAAAAAAAAAAEQIf/aAAgBAwEBPwExf//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAECAQE/AUf/xAAbEAABBAMAAAAAAAAAAAAAAAAAASEykQIxQf/aAAgBAQAGPwLtklsihmzOaIn/xAAbEAACAwADAAAAAAAAAAAAAAAAAREhYUFx4f/aAAgBAQABPyGFyrikpfDYXhknR006Ck2P/9oADAMBAAIAAwAAABDT/wD/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EALljf/EABgRAAMBAQAAAAAAAAAAAAAAAAABEWGh/9oACAECAQE/EE6TXT//xAAaEAEBAQEBAQEAAAAAAAAAAAABESEAMWGh/9oACAEBAAE/EEcoPu5OAtfbWOCSXxN7aHFYa/rg3KXXmBTvom9//9k=&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;
+&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/B085ZRZ1T1&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/5cfefc5e9aef2de77a957dbddaef057d/4cda9/95d16cbe.jpg&quot;
+                srcset=&quot;/static/5cfefc5e9aef2de77a957dbddaef057d/4cda9/95d16cbe.jpg 1x,
+/static/5cfefc5e9aef2de77a957dbddaef057d/3ad8d/95d16cbe.jpg 1.5x,
+/static/5cfefc5e9aef2de77a957dbddaef057d/c60e9/95d16cbe.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABAv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABfqOw8mzf/8QAGRABAAMBAQAAAAAAAAAAAAAAAQADFBEx/9oACAEBAAEFAslQtIzPVD0j2f/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAIDAQAAAAAAAAAAAAAAAAABIDKRQf/aAAgBAQAGPwLulnpRQ//EAB0QAAICAQUAAAAAAAAAAAAAAAABESFRQWFxofH/2gAIAQEAAT8hiHE8iklWJHiCNNb40ILYsp9H/9oADAMBAAIAAwAAABBbD//EABYRAQEBAAAAAAAAAAAAAAAAAAARgf/aAAgBAwEBPxCtf//EABgRAAIDAAAAAAAAAAAAAAAAAAABYZHw/9oACAECAQE/EBqNZ//EABsQAQACAwEBAAAAAAAAAAAAAAEAESExYZHh/9oACAEBAAE/EEQHbI1Usr/tNZACjHLjZhy69hsUOggtoDv1P//Z&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;
+&lt;span class=&quot;link-preview-container&quot;&gt;
+            
+    &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.amazon.co.jp/dp/B009GPM8LE&quot;&gt;
+        $amazon
+    &lt;/a&gt;
+            
+            &lt;img
+                loading=&quot;lazy&quot;
+                decoding=&quot;async&quot;
+                alt=&quot;site preview image&quot;
+                src=&quot;/static/6869e60db6cc999084f1229e08dcc879/4cda9/64397c27.jpg&quot;
+                srcset=&quot;/static/6869e60db6cc999084f1229e08dcc879/4cda9/64397c27.jpg 1x,
+/static/6869e60db6cc999084f1229e08dcc879/3ad8d/64397c27.jpg 1.5x,
+/static/6869e60db6cc999084f1229e08dcc879/c60e9/64397c27.jpg 2x&quot;
+                style=&quot;background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQCA//EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAG7Sk4KUv/EABoQAAICAwAAAAAAAAAAAAAAAAABAxMQFCH/2gAIAQEAAQUC1IilMohIUcx//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAIAQIBAT8BR//EABsQAAEEAwAAAAAAAAAAAAAAAAABMTKRAkFh/9oACAEBAAY/At2SWyKGS9GGP//EAB0QAAICAQUAAAAAAAAAAAAAAAABESFRMUFhkeH/2gAIAQEAAT8hhcq+Q6kqw2F4ZW5bp5sTQRens//aAAwDAQACAAMAAAAQsz//xAAXEQEAAwAAAAAAAAAAAAAAAAAAAREx/9oACAEDAQE/EMVL/8QAFxEBAAMAAAAAAAAAAAAAAAAAABFhof/aAAgBAgEBPxBFtf/EABoQAQEAAwEBAAAAAAAAAAAAAAERACFhQTH/2gAIAQEAAT8QQign1ZMKa3TsuYECXE3IEyiPfDBNDfDGFGrbpc//2Q==&apos;); background-size: cover;&quot;
+            /&gt;
+            
+        &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;その他のセール本&lt;/p&gt;
 &lt;iframe src=&quot;https://hatenablog-parts.com/embed?url=https%3A%2F%2Fkyukyunyorituryo.github.io%2Fkindle_sale%2Fhtml%2F20230810s34125.html&quot; title=&quot;「Kindleセール」KADOKAWA 大人気の鉄板本フェア　30％OFF　８月１０日 まで&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
 &lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://kyukyunyorituryo.github.io/kindle_sale/html/20230810s34125.html&quot;&gt;kyukyunyorituryo.github.io&lt;/a&gt;&lt;/cite&gt;</content:encoded></item></channel></rss>
