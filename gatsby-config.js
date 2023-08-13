@@ -71,15 +71,20 @@ pathPrefix: "/i",
           },
           `gatsby-remark-prismjs`,
           {
-      resolve: `gatsby-remark-amazon-link`,
-      options: {
-        accessKey: process.env.accessKey,
-        secretKey: process.env.secretKey,
-        partnerTag: "kyukyunyorituryo-22",
-        marketplace: "www.amazon.co.jp",
-      }
-    },
-          `gatsby-remark-link-beautify`,
+            resolve: `gatsby-remark-amazon-link`,
+            options: {
+              accessKey: process.env.accessKey,
+              secretKey: process.env.secretKey,
+              partnerTag: "kyukyunyorituryo-22",
+              marketplace: "www.amazon.co.jp",
+           }
+          },
+          {
+            resolve: `gatsby-remark-link-beautify`,
+            options: {
+             enableLinkPreview: false,
+                  },
+              },
         ],
       },
     },
