@@ -10,9 +10,6 @@ require("dotenv").config({
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  flags: {
-    PARALLEL_QUERY_RUNNING: false
-  },
 pathPrefix: "/i",
   siteMetadata: {
     title: `電書ニュース`,
@@ -27,7 +24,7 @@ pathPrefix: "/i",
     },
   },
   plugins: [
-  `gatsby-plugin-sitemap`,
+    `gatsby-plugin-sitemap`,
      {
       resolve: 'gatsby-plugin-google-gtag',
       options: {
@@ -54,6 +51,19 @@ pathPrefix: "/i",
       },
     },
     {
+      resolve: `gatsby-transformer-json`,
+      options: {
+        typeName: `Json`, // a fixed string
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `${__dirname}/src/data/`,
+      },
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
@@ -70,6 +80,8 @@ pathPrefix: "/i",
             },
           },
           `gatsby-remark-prismjs`,
+         `gatsby-remark-link-hatena`,
+/* 
           {
             resolve: `gatsby-remark-amazon-link`,
             options: {
@@ -79,12 +91,8 @@ pathPrefix: "/i",
               marketplace: "www.amazon.co.jp",
            }
           },
-          {
-            resolve: `gatsby-remark-link-beautify`,
-            options: {
-             enableLinkPreview: false,
-                  },
-              },
+
+*/
         ],
       },
     },
@@ -134,7 +142,7 @@ pathPrefix: "/i",
               }
             }`,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "電書ニュース RSS Feed",
           },
         ],
       },
@@ -142,9 +150,9 @@ pathPrefix: "/i",
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `Gatsby`,
-        start_url: `/`,
+        name: `電書ニュース`,
+        short_name: `電書ニュース`,
+        start_url: `/i`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
