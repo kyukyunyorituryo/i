@@ -36,9 +36,13 @@ query MyQuery {
   const book = data.allJson.edges
 
  var file = book.filter(word => asin.includes(word.node.Asin));
+ //重複の削除
+//https://qiita.com/allJokin/items/28cd023335641e8796c5
+ const uniqueUsers = Array.from(new Map(file.map((user) => [user.node.Asin, user])).values()
+);
     return (
     <div>
-      {file.map(e => (
+      {uniqueUsers.map(e => (
       <div key={e.node.Asin}>
         <a className="amazon-card-container" href={e.node.URL}>
           <div className="amazon-card-body">

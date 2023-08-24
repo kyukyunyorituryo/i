@@ -1,7 +1,7 @@
 // src/pages/page.js
 import React from "react"
 
-import Amazon from "../components/Amazon"
+import Amazon from "../components/amazon"
 
 export default function Page3() {
 
