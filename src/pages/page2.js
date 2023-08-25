@@ -27,7 +27,6 @@ query MyQuery {
 const asin=["B08DTXKTFV","B0B683NKKV"]
 
  var file = book.filter(word => asin.includes(word.node.Asin));
-console.log(book)
     return (
     <div>
       {file.map(e => (
