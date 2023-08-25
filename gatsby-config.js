@@ -22,7 +22,7 @@ pathPrefix: "/i",
     social: {
       twitter: `99nyorituryo`,
     },
-    icon: `src/images/densho512.png`,
+    icon: `https://kyukyunyorituryo.github.io/i/densho512.png`,
   },
   plugins: [
     `gatsby-plugin-sitemap`,
