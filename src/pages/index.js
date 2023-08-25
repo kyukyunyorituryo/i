@@ -76,6 +76,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        icon
       }
     }
     allMdx(sort: { frontmatter: { date: DESC } }) {
