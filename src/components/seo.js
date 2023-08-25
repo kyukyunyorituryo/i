@@ -19,6 +19,7 @@ const Seo = ({ description, title, children }) => {
             social {
               twitter
             }
+            icon
           }
         }
       }
@@ -26,6 +27,7 @@ const Seo = ({ description, title, children }) => {
   )
 
   const metaDescription = description || site.siteMetadata.description
+  const metaImage = site.siteMetadata.icon
   const defaultTitle = site.siteMetadata?.title
 
   return (
@@ -35,6 +37,7 @@ const Seo = ({ description, title, children }) => {
       <meta property="og:title" content={title} />
       <meta property="og:description" content={metaDescription} />
       <meta property="og:type" content="website" />
+      <meta property="og:image" content={metaImage} />
       <meta name="twitter:card" content="summary" />
       <meta
         name="twitter:creator"
@@ -42,6 +45,7 @@ const Seo = ({ description, title, children }) => {
       />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
+      <meta name="twitter:image" content={metaImage} />
       {children}
     </>
   )
