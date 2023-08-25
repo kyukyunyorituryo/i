@@ -47,7 +47,7 @@ query MyQuery {
         <a className="amazon-card-container" href={e.node.URL}>
           <div className="amazon-card-body">
             <div className="amazon-card-title">{e.node.Title}</div>
-            <div className="amazon-card-domain">価格：{e.node.Price}、ポイント：{e.node.Points}、{e.node.Contributor}、出版社：{e.node.Publisher}、カテゴリー：{e.node.Category}</div>
+            <div className="amazon-card-domain">価格：{e.node.Price}円、ポイント：{e.node.Points}、{e.node.Contributor}、出版社：{e.node.Publisher}、カテゴリー：{e.node.Category}</div>
           </div>
           <div className="amazon-card-image-container">
             <img className="amazon-card-image" src={e.node.ImageURL} loading="lazy" alt={e.node.Title}/>
