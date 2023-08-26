@@ -36,6 +36,14 @@ query MyQuery {
   const book = data.allJson.edges
 
  var file = book.filter(word => asin.includes(word.node.Asin));
+var image_m
+var image_s
+for (let i = 0; i < file.length; i++) {
+image_m=file[i].node.ImageURL.replace(/_SL500_/, '_SL160_');
+image_s=file[i].node.ImageURL.replace(/_SL500_/, '_SL75_');
+file[i].node.image_m=image_m;
+file[i].node.image_s=image_s;
+}
  //重複の削除
 //https://qiita.com/allJokin/items/28cd023335641e8796c5
  const uniqueUsers = Array.from(new Map(file.map((user) => [user.node.Asin, user])).values()
@@ -50,7 +58,11 @@ query MyQuery {
             <div className="amazon-card-domain">価格：{e.node.Price}円、ポイント：{e.node.Points}、{e.node.Contributor}、出版社：{e.node.Publisher}、カテゴリー：{e.node.Category}</div>
           </div>
           <div className="amazon-card-image-container">
-            <img className="amazon-card-image" src={e.node.ImageURL} loading="lazy" alt={e.node.Title}/>
+          <img className="amazon-card-image"
+           srcSet={`${e.node.image_s} 320w, ${e.node.image_m} 640w, ${e.node.ImageURL} `}
+     src={e.node.image_s}
+     sizes="(max-width:1280px) 50vw, 1280px"
+      loading="lazy" alt={e.node.Title}/>
           </div>
         </a>
       </div>

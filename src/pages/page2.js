@@ -27,6 +27,15 @@ query MyQuery {
 const asin=["B08DTXKTFV","B0B683NKKV"]
 
  var file = book.filter(word => asin.includes(word.node.Asin));
+var image_m
+var image_s
+for (let i = 0; i < file.length; i++) {
+image_m=file[i].node.ImageURL.replace(/_SL500_/, '_SL160_');
+image_s=file[i].node.ImageURL.replace(/_SL500_/, '_SL75_');
+file[i].node.image_m=image_m
+file[i].node.image_s=image_s
+}
+console.log(file)
     return (
     <div>
       {file.map(e => (
@@ -37,7 +46,11 @@ const asin=["B08DTXKTFV","B0B683NKKV"]
             <div className="amazon-card-domain">価格：{e.node.Price}、ポイント：{e.node.Points}、{e.node.Contributor}、出版社：{e.node.Publisher}</div>
           </div>
           <div className="amazon-card-image-container">
-            <img className="amazon-card-image" src={e.node.ImageURL} loading="lazy" alt={e.node.Title}/>
+          <img className="amazon-card-image"
+           srcSet={`${e.node.image_s} 320w, ${e.node.image_m} 640w, ${e.node.ImageURL} `}
+     src={e.node.image_s}
+     sizes="(max-width:1280px) 50vw, 1280px"
+      loading="lazy" alt={e.node.Title}/>
           </div>
         </a>
       </div>
