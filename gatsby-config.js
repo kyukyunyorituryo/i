@@ -152,7 +152,7 @@ pathPrefix: "/i",
       options: {
         name: `電書ニュース`,
         short_name: `電書ニュース`,
-        start_url: `/i`,
+        start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
