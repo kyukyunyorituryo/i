@@ -35,7 +35,6 @@ image_s=file[i].node.ImageURL.replace(/_SL500_/, '_SL75_');
 file[i].node.image_m=image_m
 file[i].node.image_s=image_s
 }
-console.log(file)
     return (
     <div>
       {file.map(e => (
