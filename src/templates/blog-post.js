@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Share from "../components/share"
 
 const BlogPostTemplate = ({
   data: { previous, next, site, mdx: post },
@@ -26,6 +27,11 @@ const BlogPostTemplate = ({
 {children}
 </section>
         <hr />
+        <Share
+          title={siteTitle}
+          url={`${site.siteMetadata.siteUrl}${location.pathname}`}
+          
+/>
         <footer>
           <Bio />
         </footer>
@@ -80,6 +86,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        siteUrl
       }
     }
     mdx(id: { eq: $id }) {

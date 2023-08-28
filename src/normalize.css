@@ -343,3 +343,25 @@ summary {
 }
 iframe{display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;
 }
+// シェア
+.share {
+    margin-top: 3.5em;
+    text-align: center;
+
+    &__title {
+        font-weight: bold;
+        font-size: 18px;
+        letter-spacing: 0.25em;
+    }
+}
+
+.social-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+
+    &__icon:not(:last-child) {
+        margin-right: 1em;
+    }
+}
