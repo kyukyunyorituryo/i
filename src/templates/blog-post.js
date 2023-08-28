@@ -71,6 +71,7 @@ export const Head = ({ data: { mdx: post } }) => {
     <Seo
       title={post.frontmatter.title}
       description={post.frontmatter.description || post.excerpt}
+      ogpimage={post.frontmatter.ogpimage}
     />
   )
 }
@@ -96,6 +97,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "YYYY年MM月DD日")
         description
+        ogpimage
       }
     }
     previous: mdx(id: { eq: $previousPostId }) {

@@ -120,6 +120,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
+      ogpimage: String
     }
 
     type Fields {

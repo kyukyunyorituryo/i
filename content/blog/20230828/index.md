@@ -2,6 +2,7 @@
 title: "「Kindleセール」花とゆめコミックス、一迅社ZERO-SUMコミックス、文春コミック、ゴマブックス、実業之日本社、コミックストック DEDEDE"
 date: "2023-08-28 22:49:52"
 description: "「Kindleセール」花とゆめコミックス、一迅社ZERO-SUMコミックス、文春コミック、ゴマブックス、実業之日本社、コミックストック DEDEDE"
+ogpimage: "https://m.media-amazon.com/images/I/51VzhWQxAXL._SL500_.jpg"
 ---
 import Amazon from "../../../src/components/amazon"
 import Hatena from "../../../src/components/hatena"
