@@ -28,8 +28,8 @@ const BlogPostTemplate = ({
 </section>
         <hr />
         <Share
-          title={siteTitle}
-          url={`${site.siteMetadata.siteUrl}${location.pathname}`}
+          title={post.frontmatter.title}
+          url={`${site.siteMetadata.siteUrl}${post.fields.slug}`}
           
 />
         <footer>
@@ -98,6 +98,9 @@ export const pageQuery = graphql`
         date(formatString: "YYYY年MM月DD日")
         description
         ogpimage
+      }
+      fields{
+      slug
       }
     }
     previous: mdx(id: { eq: $previousPostId }) {

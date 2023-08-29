@@ -21,7 +21,7 @@ const Share = props => {
       <p className="share__title">SHARE!</p>
       <div className="social-links">
         <div className="social-links__icon">
-          <TwitterShareButton url={articleUrl} title={articleTitle}>
+          <TwitterShareButton url={articleUrl} title={articleTitle + " #ad"}>
             <TwitterIcon round size={iconSize} />
           </TwitterShareButton>
         </div>
