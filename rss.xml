@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[電書ニュース RSS Feed]]></title><description><![CDATA[電子書籍に関する情報やセールなど]]></description><link>https://kyukyunyorituryo.github.io/i</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 Sep 2023 13:57:20 GMT</lastBuildDate><item><title><![CDATA[「Kindleセール」講談社セールまとめ最大50％OFF　高額理系専門書、夏電書FINALセール、ラノベ 新刊配信記念]]></title><description><![CDATA[「Kindleセール」講談社セールまとめ最大50％OFF　高額理系専門書、夏電書FINALセール、ラノベ 新刊配信記念 [科学] 【夏電書2023】高額理系専門書 講談社サイエンティフィクフェア　最大50％OFF　９月７日 まで
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[電書ニュース RSS Feed]]></title><description><![CDATA[電子書籍に関する情報やセールなど]]></description><link>https://kyukyunyorituryo.github.io/i</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 04 Sep 2023 13:53:54 GMT</lastBuildDate><item><title><![CDATA[「Kindleセール」KADOKAWAセールまとめ、ヴァンプコミックス、ラノベ、ルポルタージュ、異世界×ごはん]]></title><description><![CDATA[[ビジネス経済] [小説] KADOKAWA　激動の時代を読む！ ルポルタージュフェア　50％OFF　９月１４日 まで その他のセール本
+
+[ライトノベル] KADOKAWA 異世界×ごはんフェア2023夏　最大50％OFF　９月１４日 まで
+
+その他のセール本
+
+[…]]></description><link>https://kyukyunyorituryo.github.io/i/20230904/</link><guid isPermaLink="false">https://kyukyunyorituryo.github.io/i/20230904/</guid><pubDate>Mon, 04 Sep 2023 13:46:19 GMT</pubDate></item><item><title><![CDATA[「Kindleセール」講談社セールまとめ最大50％OFF　高額理系専門書、夏電書FINALセール、ラノベ 新刊配信記念]]></title><description><![CDATA[「Kindleセール」講談社セールまとめ最大50％OFF　高額理系専門書、夏電書FINALセール、ラノベ 新刊配信記念 [科学] 【夏電書2023】高額理系専門書 講談社サイエンティフィクフェア　最大50％OFF　９月７日 まで
 
 その他のセール本
 
@@ -44,16 +50,4 @@
 
 その他のセール本
 
-[漫画] カドコミ2023電子版　最大87…]]></description><link>https://kyukyunyorituryo.github.io/i/20230823/</link><guid isPermaLink="false">https://kyukyunyorituryo.github.io/i/20230823/</guid><pubDate>Thu, 24 Aug 2023 09:20:47 GMT</pubDate></item><item><title><![CDATA[「Ｋｉｎｄｌｅセール」講談社セールまとめ【夏電書２０２３】＋α新書＆＋α文庫、創文社オンデマンド叢書、学術書など]]></title><description><![CDATA[「Ｋｉｎｄｌｅセール」講談社セールまとめ【夏電書２０２３】＋α新書＆＋α文庫、創文社オンデマンド叢書、学術書など ［実用書］　【夏電書２０２３】講談社＋α新書＆＋α文庫　紙で入手困難本フェア　５０％ＯＦＦ　８月３１日　まで
-
-その他のセール本
-
-［実用書］　【夏電書２０２３…]]></description><link>https://kyukyunyorituryo.github.io/i/20230822/</link><guid isPermaLink="false">https://kyukyunyorituryo.github.io/i/20230822/</guid><pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate></item><item><title><![CDATA[「Kindleセール」白泉社 夏の名作 半額フェア2023　6期　50％OFF、芳文社「可愛い上司を困らせたい」ほか まんがタイムコミックス新刊キャンペーン　最大60％OFF、『やわ男とカタ子』ドラマ放送記念！ 自意識と向き合う　30％OFF]]></title><description><![CDATA[「Kindleセール」白泉社、スターツ出版、大都社／秋水社、秋田書店、芳文社、祥伝社 [漫画] 白泉社 夏の名作 半額フェア2023　6期　50％OFF　８月１８日 まで
-
-その他のセール本
-
-[ライトノベル] スターツ出版　子供だけど異世界で大活躍！ 女性向けファンタジー…]]></description><link>https://kyukyunyorituryo.github.io/i/20230810/</link><guid isPermaLink="false">https://kyukyunyorituryo.github.io/i/20230810/</guid><pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate></item><item><title><![CDATA[gatsby-starter-blogを使ってブログを作ってみた]]></title><description><![CDATA[Gatsbyではブログも作れるので作ってみた。ただ、普通のブログのようなコメントが外部の機能を使わないといけない。静的サイトというのはあまり書き換えることがないことが前提。マニュアルをいっぱい読むのも飽きてきたので、作りながら考えることにした。 作ったのがこれ…]]></description><link>https://kyukyunyorituryo.github.io/i/gatsby-starter-blog/</link><guid isPermaLink="false">https://kyukyunyorituryo.github.io/i/gatsby-starter-blog/</guid><pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate></item><item><title><![CDATA[「Kindleセール」文藝春秋　怪談ホラーフェア　30％ポイントバック、日経BP月間セール　40％OFF、コスミック出版　自由研究や工作にも！ 親子で楽しむ夏休み特集　50％OFF]]></title><description><![CDATA[「Kindleセール」日経BP、文藝春秋、秋水社、コスミック出版、フェアベル、花とゆめコミックスなど [実用書] 日経BP月間セール　40％OFF　８月３１日 まで
-
-その他のセール本
-
-[小説] [漫画] 文藝春秋　怪談ホラーフェア　30％ポイントバック、その他…]]></description><link>https://kyukyunyorituryo.github.io/i/20230809/</link><guid isPermaLink="false">https://kyukyunyorituryo.github.io/i/20230809/</guid><pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate></item></channel></rss>
+[漫画] カドコミ2023電子版　最大87…]]></description><link>https://kyukyunyorituryo.github.io/i/20230823/</link><guid isPermaLink="false">https://kyukyunyorituryo.github.io/i/20230823/</guid><pubDate>Thu, 24 Aug 2023 09:20:47 GMT</pubDate></item><item><title><![CDATA[gatsby-starter-blogを使ってブログを作ってみた]]></title><description><![CDATA[Gatsbyではブログも作れるので作ってみた。ただ、普通のブログのようなコメントが外部の機能を使わないといけない。静的サイトというのはあまり書き換えることがないことが前提。マニュアルをいっぱい読むのも飽きてきたので、作りながら考えることにした。 作ったのがこれ…]]></description><link>https://kyukyunyorituryo.github.io/i/gatsby-starter-blog/</link><guid isPermaLink="false">https://kyukyunyorituryo.github.io/i/gatsby-starter-blog/</guid><pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate></item></channel></rss>
