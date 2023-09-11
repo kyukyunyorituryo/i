@@ -129,6 +129,3 @@ import Hatena from "../../../src/components/hatena"
 **その他のセール本**
 
 <Hatena src="https://kyukyunyorituryo.github.io/kindle_sale/html/20230914a22254610051.html" title=""/>
-
-[blog:g:11696248318754550860:banner]
-
