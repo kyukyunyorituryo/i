@@ -10,11 +10,6 @@ import Hatena from "../../../src/components/hatena"
 「Kindleセール」計3,000点以上！幻冬舎電本フェス本祭
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「Kindleセール」計3,000点以上！幻冬舎電本フェス本祭 / 1件のコメント <a href="https://t.co/s5wJUfzHLf">https://t.co/s5wJUfzHLf</a></p>&mdash; 急急如律令（電子出版のメモ） (@99nyorituryo) <a href="https://twitter.com/99nyorituryo/status/1699387319785226609?ref_src=twsrc%5Etfw">September 6, 2023</a></blockquote> 
-
-
-
-
 
 
 ### 計3,000点以上！幻冬舎電本フェス本祭　小説・文芸　最大70%OFF　　９月１４日 まで

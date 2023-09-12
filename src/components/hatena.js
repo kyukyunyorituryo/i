@@ -14,7 +14,7 @@ const Hatena = ({ src,title }) => {
     return (
     <div>
       <div key={src}>
-      <iframe src={url} title={title} className="embed-card embed-webcard" scrolling="no" frameborder="0" loading="lazy"></iframe>
+      <iframe src={url} title={title} className="embed-card embed-webcard" scrolling="no" frameBorder="0" loading="lazy"></iframe>
       </div>
 
     </div>
