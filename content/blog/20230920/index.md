@@ -3,6 +3,7 @@ title: "「Kindleセール」「おかしな転生」TVアニメ　続きも無�
 date: "2023-09-20 23:03:13"
 description: "「Kindleセール」バンブーコミックス、「おかしな転生」、祥伝社(NON NOVEL)、(コミックオーズ)、それいゆ文庫、GANMA!、竹書房4コマ"
 ogpimage: "https://m.media-amazon.com/images/I/518w+2tATHL._SL500_.jpg"
+tags: ["kindle sale"]
 ---
 import Amazon from "../../../src/components/amazon"
 import Hatena from "../../../src/components/hatena"

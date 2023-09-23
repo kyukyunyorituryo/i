@@ -3,6 +3,7 @@ title: "SBクリエイティブ ラノベ・コミックスセール　50％OFF�
 date: "2023-09-19 20:28:06"
 description: "「Kindleセール」(マッグガーデン・ノベルズ)マッグガーデンコミックス、小学館 、(ブリーゼコミックス)、SBクリエイティブ (GA文庫)(GAノベル)、スマートゲート"
 ogpimage: "https://m.media-amazon.com/images/I/51Hse0rmaNL._SL500_.jpg"
+tags: ["kindle sale"]
 ---
 import Amazon from "../../../src/components/amazon"
 import Hatena from "../../../src/components/hatena"

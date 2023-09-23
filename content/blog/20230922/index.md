@@ -3,6 +3,7 @@ title: "４社合同　池井戸潤フェア　30％OFF、白泉社 夏の名作
 date: "2023-09-22 21:57:18"
 description: "「Kindleセール」日本文芸社(ゴルフ)、池井戸潤、白泉社、ナンバーナイン、サード・ライン、(まんが王国コミックス) 、PICK UP PRESS"
 ogpimage: "https://m.media-amazon.com/images/I/61dfS5clvBL._SL500_.jpg"
+tags: ["kindle sale"]
 ---
 import Amazon from "../../../src/components/amazon"
 import Hatena from "../../../src/components/hatena"

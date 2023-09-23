@@ -3,6 +3,7 @@ title: "「Kindleセール」KADOKAWAセールまとめ　最大70％OFF　電�
 date: "2023-09-19 21:38:18"
 description: "「Kindleセール」KADOKAWAセールまとめ　最大70％OFF　電撃コミックスNEXT、カドカワBOOKS、角川スニーカー文庫、文芸＆実用書"
 ogpimage: "https://m.media-amazon.com/images/I/51dpT4TjktL._SL500_.jpg"
+tags: ["kindle sale"]
 ---
 import Amazon from "../../../src/components/amazon"
 import Hatena from "../../../src/components/hatena"

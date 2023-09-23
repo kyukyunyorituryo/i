@@ -2,6 +2,7 @@
 title: "gatsby-starter-blogを使ってブログを作ってみた"
 date: "2023-08-10"
 description: "Gatsbyではブログも作れるので作ってみた。ただ、普通のブログのようなコメントが外部の機能を使わないといけない。"
+tags: ["Gatsby.js"]
 ---
 import Amazon from "../../../src/components/amazon"
 import Hatena from "../../../src/components/hatena"

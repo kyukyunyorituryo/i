@@ -3,6 +3,7 @@ title: "「Kindleセール」石ノ森章太郎先生　生誕85周年記念フ�
 date: "2023-09-21 23:27:25"
 description: "「Kindleセール」「本好きの下剋上」、石ノ森章太郎、秀和システム、祥伝社(FC Jam)(FEEL COMICS)、Berry's COMICS 、comic ZERO-SUM"
 ogpimage: "https://m.media-amazon.com/images/I/51dp3dkgZyL._SL500_.jpg"
+tags: ["kindle sale"]
 ---
 import Amazon from "../../../src/components/amazon"
 import Hatena from "../../../src/components/hatena"
