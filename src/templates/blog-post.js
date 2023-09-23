@@ -11,7 +11,7 @@ const BlogPostTemplate = ({
   location,children
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
-
+  const tags = post.frontmatter.tags
   return (
     <Layout location={location} title={siteTitle}>
       <article
@@ -21,7 +21,12 @@ const BlogPostTemplate = ({
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p>{post.frontmatter.date}　{tags && tags.length > 0 && tags.map(tag => {
+          return (
+          <button>{tag}</button>
+          )
+          })}</p>
+       
         </header>
 <section itemProp="articleBody">
 {children}
@@ -98,6 +103,7 @@ export const pageQuery = graphql`
         date(formatString: "YYYY年MM月DD日")
         description
         ogpimage
+        tags
       }
       fields{
       slug

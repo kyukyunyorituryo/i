@@ -6,9 +6,10 @@
 
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
-
+const _ = require("lodash")
 // Define the template for blog post
 const blogPost = path.resolve(`./src/templates/blog-post.js`)
+const tagTemplate = path.resolve(`./src/templates/tags.js`)
 
 const indexTemplate = path.resolve("src/pages/index.js")
 /**
@@ -20,7 +21,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   // Get all markdown blog posts sorted by date
   const result = await graphql(`
     {
-      allMdx(sort: { frontmatter: { date: ASC } }, limit: 1000) {
+      postsRemark: allMdx(sort: { frontmatter: { date: ASC } }, limit: 1000) {
         nodes {
           id
           fields {
@@ -29,6 +30,14 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           internal {
             contentFilePath
           }
+          frontmatter {
+            tags
+          }
+        }
+      }
+      tagsGroup: allMdx(limit: 2000) {
+        group(field: { frontmatter: { tags: SELECT } }) {
+          fieldValue
         }
       }
     }
@@ -42,8 +51,19 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     return
   }
 
-  const posts = result.data.allMdx.nodes
-
+  const posts = result.data.postsRemark.nodes
+  const tags = result.data.tagsGroup.group
+if (tags.length > 0) {
+  tags.forEach(tag => {
+    createPage({
+      path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
+      component: tagTemplate,
+      context: {
+        tag: tag.fieldValue,
+      },
+    })
+  })
+}
   // Create blog posts pages
   // But only if there's at least one markdown file found at "content/blog" (defined in gatsby-config.js)
   // `context` is available in the template as a prop and as a variable in GraphQL
@@ -121,6 +141,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       description: String
       date: Date @dateformat
       ogpimage: String
+      tags: [String!] 
     }
 
     type Fields {
