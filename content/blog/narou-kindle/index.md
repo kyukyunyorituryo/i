@@ -60,7 +60,9 @@ OSにあったKindle Previewerをインストールしてください。kindlege
 
 
 ### sendtokindle
+
 send to kindleは「 PDF、DOC、DOCX、TXT、RTF、HTM、HTML、PNG、GIF、JPG、JPEG、BMP、EPUB」などのファイルをkindleで読める形式に変換してからkindleに送るサービスです。このサービスを使う場合はEPUBが適しています。
+
 <Hatena src="https://www.amazon.co.jp/sendtokindle" title="sendtokindle"/>
 
 ![空行除去](space-remove.jpg)
@@ -68,9 +70,13 @@ send to kindleは「 PDF、DOC、DOCX、TXT、RTF、HTM、HTML、PNG、GIF、JPG
 「小説家になろう」では初期設定のままでは、表示が変な場合があるので、線を引いたところを変えるといいと思います。
 
 ![なろうサイトから](overlord.jpg)
+
 次になろうのサイトからAozoraEpub3に一括ダウンロードするそのやり方はchromeでは、下線の部分を[ファイルまたはURL文字列をここにドラッグ＆ドロップ／ペーストで変換します]の部分にドラッグアンドドロップすることで、一括してダウンロードされます。保存場所は任意に指定できる。
 
+[オーバーロード：前編](https://ncode.syosetu.com/n4402bd/)
+
 ![保存場所](filepath.jpg)
+
 　保存場所を指定すると、変換前確認画面が出るので、表紙を指定したい場合は、赤線が引いていある部分にjpg画像などをドラッグアンドドロップする。
 
 
@@ -79,7 +85,9 @@ send to kindleは「 PDF、DOC、DOCX、TXT、RTF、HTM、HTML、PNG、GIF、JPG
  そうして出力されたmobiファイルをkindleのdocumentフォルダーに入れるキンドルで読むことが可能になる。
 
 ### パーソナルドキュメントサービス
+
 ![パーソナルドキュメントサービス](personal-document.jpg)
+
 パーソナルドキュメントというのを利用する方法があるのでそっちの説明もおこうなる。
 
 「my kindle」とグーグルなどで検索して出てきたサイトからアマゾンにログインする。
