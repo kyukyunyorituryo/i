@@ -120,5 +120,5 @@ import Hatena from "../../../src/components/hatena"
 
 **その他のセール本**
 
-<Hatena src="https://kyukyunyorituryo.github.io/kindle_sale/MonthlyChange/" title=""/>
+<Hatena src="https://kyukyunyorituryo.github.io/kindle_sale/Monthly-Change/" title=""/>
 
