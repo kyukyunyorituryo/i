@@ -6,7 +6,7 @@
  */
 
 import * as React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql ,Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 
 const Bio = () => {
@@ -48,7 +48,9 @@ const Bio = () => {
           {` `}
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
             Twitterをフォロー
-          </a>
+          </a>{` `}
+          <Link to="/privacy-policy/">プライバシーポリシー</Link>
+      
         </p>
       )}
     </div>

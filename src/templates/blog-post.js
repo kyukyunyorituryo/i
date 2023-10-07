@@ -5,6 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Share from "../components/share"
+import kebabCase from "lodash/kebabCase"
 
 const BlogPostTemplate = ({
   data: { previous, next, site, mdx: post },
@@ -23,7 +24,9 @@ const BlogPostTemplate = ({
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}　{tags && tags.length > 0 && tags.map(tag => {
           return (
-          <button>{tag}</button>
+                  <Link to={`/tags/${kebabCase(tag)}/`} itemProp="url">
+                    <button>{tag}</button>
+                  </Link>
           )
           })}</p>
        
