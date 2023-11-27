@@ -28,7 +28,7 @@ import Hatena from "../../../src/components/hatena"
 
 
 
-[https://twitter.com/99nyorituryo/status/1728402831202476119:embed]
+<blockquote className="twitter-tweet"><p lang="ja" dir="ltr">Kindleマンガビッグセール 第3弾 <br/>集英社マンガ50％ポイント還元<br/><br/>僕のヒーローアカデミア、太陽よりも眩しい星、九龍ジェネリックロマンスなど1,000冊 以上<a href="https://t.co/HFjBT2pgDj">https://t.co/HFjBT2pgDj</a> <a href="https://twitter.com/amazon?ref_src=twsrc%5Etfw">@amazon</a>より</p>&mdash; 急急如律令（電子出版のメモ） (@99nyorituryo) <a href="https://twitter.com/99nyorituryo/status/1728402831202476119?ref_src=twsrc%5Etfw">November 25, 2023</a></blockquote>
 
 
 ### Kindleマンガビッグセール 第2弾 スクウェア・エニックスマンガ50％ポイント還元
@@ -46,7 +46,7 @@ import Hatena from "../../../src/components/hatena"
 <Amazon asin="B0BZVD8228" />
 
 
-[https://twitter.com/99nyorituryo/status/1728403550643065224:embed]
+<blockquote className="twitter-tweet"><p lang="ja" dir="ltr">Kindleマンガビッグセール 第2弾 スクウェア・エニックスマンガ50％ポイント還元<br/><br/>薬屋のひとりごと 、その着せ替え人形は恋をする　など<br/>7,000 冊以上<br/> <a href="https://t.co/nyKM2TQlso">https://t.co/nyKM2TQlso</a> <a href="https://twitter.com/amazon?ref_src=twsrc%5Etfw">@amazon</a>より</p>&mdash; 急急如律令（電子出版のメモ） (@99nyorituryo) <a href="https://twitter.com/99nyorituryo/status/1728403550643065224?ref_src=twsrc%5Etfw">November 25, 2023</a></blockquote> 
 
 ### 語り継がれる物語。『三国志』 歴史・時代劇フェア　無料＆割引　１２月９日 まで
 
