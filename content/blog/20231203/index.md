@@ -28,7 +28,7 @@ import Hatena from "../../../src/components/hatena"
 
 **その他のセール本**
 
-<Hatena src="https://kyukyunyorituryo.github.io/kindle_sale/MonthlyChange/" title=""/>
+<Hatena src="https://kyukyunyorituryo.github.io/kindle_sale/Monthly-Change/" title=""/>
 
 ### ゲーム転生！今話題の令嬢系＆転生チート大集合！ 「異世界転生LaLa」Vol.12配信フェア！　20％OFF　１２月１４日 まで
 
