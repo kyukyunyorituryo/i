@@ -1,6 +1,6 @@
 ---
 title: "小説家になろうをキンドルで読む方法　EPUBやMOBIに変換"
-date: "2023-09-23 23:32:54"
+date: "2024-01-05 20:10:54"
 description: "小説家になろうで連載されている本はAozoraEpub３を使えばキンドルで読むことができるようになります。"
 ogpimage: ""
 tags: ["AozoraEpub3"]
@@ -24,15 +24,15 @@ import Hatena from "../../../src/components/hatena"
 
 　AozoraEpub3の本家のほうは最近更新されてないので、クローンを作って挿絵が読み込まれない不具合を修正しました。下のサイトからAozoraEpub3をダウンロードしてください。
 
-Assetsの下の「AozoraEpub3-1.1.1b17Q.zip」をクリックすることでダウンロードできます。バージョンは最新のものがおすすめ。
+Assetsの下の「AozoraEpub3-1.1.1b19Q.zip」をクリックすることでダウンロードできます。バージョンは最新のものがおすすめ。
 
 <Hatena src="https://github.com/kyukyunyorituryo/AozoraEpub3/releases" title="AozoraEpub3のダウンロード"/>
 
 Javaが入っていない人はjavaをインストールする必要がある。
 
-<Hatena src="https://adoptium.net/temurin/releases/?version=17" title="Latest Releases | Adoptium"/>
+<Hatena src="https://adoptium.net/temurin/releases/?version=21" title="Latest Releases | Adoptium"/>
 
-Windowsの場合はOperating System：Windows、Architecture：x64、Package Type：JRE、Version：11を選んでインストールしてください。
+Windowsの場合はOperating System：Windows、Architecture：x64、Package Type：JRE、Version：21を選んでインストールしてください。
 
 
 ![AozoraEpub3の起動画面](aozoraepub1.jpg)
