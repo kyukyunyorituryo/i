@@ -12,13 +12,14 @@ const Layout = ({ location, title, children }) => {
       <h1 className="main-heading">
         <Link to="/">{title}</Link>
       </h1>
-      <nav >
-        <ul>
-    <li><a href="https://kyukyunyorituryo.github.io/new_epub/">kindle新刊</a></li>
-    <li><a href="https://kyukyunyorituryo.github.io/new_pub/">紙の新刊</a></li>
-    <li><a href="https://kyukyunyorituryo.github.io/kindle_sale/"> kindleセール</a></li>
-  </ul>
-      </nav>
+      <p>
+          
+          <a href="https://kyukyunyorituryo.github.io/">サイトトップ</a>、
+          <a href="https://kyukyunyorituryo.github.io/new_epub/">kindle新刊</a>、
+          <a href="https://kyukyunyorituryo.github.io/new_pub/">紙の新刊</a>、
+          <a href="https://kyukyunyorituryo.github.io/i/"> 電書ニュース</a>
+      
+        </p>
       </>
     )
   } else {
@@ -27,13 +28,14 @@ const Layout = ({ location, title, children }) => {
       <Link className="header-link-home" to="/">
         {title}
       </Link>
-            <nav >
-        <ul>
-    <li><a href="https://kyukyunyorituryo.github.io/new_epub/">kindle新刊</a></li>
-    <li><a href="https://kyukyunyorituryo.github.io/new_pub/">紙の新刊</a></li>
-    <li><a href="https://kyukyunyorituryo.github.io/kindle_sale/"> kindleセール</a></li>
-  </ul>
-      </nav>
+      <p>
+          
+          <a href="https://kyukyunyorituryo.github.io/">サイトトップ</a>、
+          <a href="https://kyukyunyorituryo.github.io/new_epub/">kindle新刊</a>、
+          <a href="https://kyukyunyorituryo.github.io/new_pub/">紙の新刊</a>、
+          <a href="https://kyukyunyorituryo.github.io/i/"> 電書ニュース</a>
+      
+        </p>
       </>
     )
   }
