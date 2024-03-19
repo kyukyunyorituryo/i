@@ -1,11 +1,7 @@
 ---
-title: "
-AozoraEpub3-1.1.1b9Qをリリースしました。
-"
+title: "AozoraEpub3-1.1.1b9Qをリリースしました。"
 date: "2021-05-06 22:28:29"
-description: "
-AozoraEpub3-1.1.1b9Qをリリースしました。
-"
+description: "AozoraEpub3-1.1.1b9Qをリリースしました。"
 ogpimage: ""
 tags: ["AozoraEpub3"]
 ---
