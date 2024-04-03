@@ -12,6 +12,7 @@ const Layout = ({ location, title, children }) => {
       <h1 className="main-heading">
         <Link to="/">{title}</Link>
       </h1>
+       <p>EPUBの作成ソフトやkindleのセールの記事を書いています。</p>
       <p>
           
           <a href="https://kyukyunyorituryo.github.io/">サイトトップ</a>、

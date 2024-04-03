@@ -43,7 +43,7 @@ gradleのチュートリアルをやってみる
 
 <Hatena src="https://www.torutk.com/issues/274" title=""/>
 
-[https://www.reddit.com/r/JavaFX/comments/16izyis/how_can_i_deploy_my_javafx_application_after/]
+[How can I deploy my JavaFX application after finishing it????](https://www.reddit.com/r/JavaFX/comments/16izyis/how_can_i_deploy_my_javafx_application_after/)
 
 <Hatena src="https://devdocs.jabref.org/code-howtos/jpackage.html" title=""/>
 
