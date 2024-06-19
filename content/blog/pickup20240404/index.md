@@ -3,7 +3,7 @@ title: "４月４日から４月１０日までキンドル新刊ピックアッ
 date: "2024-04-18 21:56:07"
 description: "４月４日から４月１０日までキンドル新刊ピックアップ"
 ogpimage: "https://m.media-amazon.com/images/I/51ek9Tdg7vL._SL500_.jpg"
-tags: ["kindle sale"]
+tags: ["new book"]
 ---
 import Amazon from "../../../src/components/amazon"
 import Hatena from "../../../src/components/hatena"

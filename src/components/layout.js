@@ -18,7 +18,7 @@ const Layout = ({ location, title, children }) => {
           <a href="https://kyukyunyorituryo.github.io/">サイトトップ</a>、
           <a href="https://kyukyunyorituryo.github.io/new_epub/">kindle新刊</a>、
           <a href="https://kyukyunyorituryo.github.io/new_pub/">紙の新刊</a>、
-          <a href="https://kyukyunyorituryo.github.io/i/"> 電書ニュース</a>
+          <a href="https://kyukyunyorituryo.github.io/kindle_sale/">kindleセール</a>
       
         </p>
       </>
@@ -34,7 +34,7 @@ const Layout = ({ location, title, children }) => {
           <a href="https://kyukyunyorituryo.github.io/">サイトトップ</a>、
           <a href="https://kyukyunyorituryo.github.io/new_epub/">kindle新刊</a>、
           <a href="https://kyukyunyorituryo.github.io/new_pub/">紙の新刊</a>、
-          <a href="https://kyukyunyorituryo.github.io/i/"> 電書ニュース</a>
+          <a href="https://kyukyunyorituryo.github.io/kindle_sale/">kindleセール</a>
       
         </p>
       </>

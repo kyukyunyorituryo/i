@@ -10,11 +10,15 @@ import Hatena from "../../../src/components/hatena"
 
 改造版AozoraEpub3　1.1.1b23Q (2024/03/10)
 
-* リファクタリング等
-* ユーザーエージェントを設定可能にした
+- リファクタリング等
+- ユーザーエージェントを設定可能にした
 
 <Hatena src="https://github.com/kyukyunyorituryo/AozoraEpub3/releases/tag/v1.1.1b23Q" title=""/>
 
-バグが出ても対応できる人向け web/ncode.syosetu.com/extract.txt内の
-#USER_AGENT
+バグが出ても対応できる人向け 
+
+web/ncode.syosetu.com/extract.txt、web/novel18.syosetu.com/extract.txt
+
+
+内の#USER_AGENT
 の#を外してユーザーエージェントを書き換えれる
