@@ -7,6 +7,7 @@ tags: ["AozoraEpub3"]
 ---
 import Amazon from "../../../src/components/amazon"
 import Hatena from "../../../src/components/hatena"
+import YouTube from 'react-youtube';
 
 ### AozoraEpub3
 
@@ -14,13 +15,12 @@ import Hatena from "../../../src/components/hatena"
 
 
 小説家になろうをキンドルで読む
-<Hatena src="https://www.youtube.com/watch?v=qxcDw5nWd10" title="小説家になろうをキンドルで読む"/>
+<YouTube videoId="qxcDw5nWd10" title="小説家になろうをキンドルで読む"  />
 
 
 
 青空文庫のEPUB変換とAozoraEpub3のセットアップ
-
-<Hatena src="https://www.youtube.com/watch?v=SHeUvLXaycc" title="青空文庫のEPUB変換とAozoraEpub3のセットアップ"/>
+<YouTube videoId="SHeUvLXaycc" title="青空文庫のEPUB変換とAozoraEpub3のセットアップ"  />
 
 　AozoraEpub3の本家のほうは最近更新されてないので、クローンを作って挿絵が読み込まれない不具合を修正しました。下のサイトからAozoraEpub3をダウンロードしてください。
 
